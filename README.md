@@ -34,6 +34,7 @@ step2: autism_model_trained.py
 step3: streamlit run autism_app.py
 
 AUTHOR:
+
 Name: Thirunahari Varshini
 
 Mail: varshinithirunahari13@gmail.com 
