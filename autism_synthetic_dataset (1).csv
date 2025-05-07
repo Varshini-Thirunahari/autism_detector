@@ -1,0 +1,501 @@
+age,gender,ethnicity,eye_contact,repetitive_behavior,social_interaction,communication_skills,speech_delay,motor_skills,family_history,IQ,sensory_sensitivity,anxiety,ASD_Type
+9,M,African,Yes,Yes,Low,Good,Yes,Good,Yes,124,Low,Low,None
+16,M,Other,Yes,No,Low,Average,No,Poor,Yes,124,Moderate,Moderate,None
+23,M,Asian,No,Yes,Moderate,Average,No,Poor,No,138,Low,Moderate,None
+20,F,Other,Yes,Yes,Low,Good,Yes,Average,Yes,99,Low,Moderate,None
+25,M,African,No,Yes,High,Average,Yes,Good,Yes,138,High,Low,None
+26,F,Other,Yes,No,Low,Poor,Yes,Average,No,104,Low,Low,High Functioning
+38,F,Caucasian,No,No,High,Average,Yes,Average,Yes,101,High,High,Asperger
+39,F,Other,No,No,Low,Poor,No,Poor,Yes,84,Low,High,None
+29,M,Hispanic,No,No,High,Average,Yes,Good,Yes,138,Moderate,High,None
+20,F,Caucasian,No,Yes,High,Good,No,Good,Yes,134,Low,High,None
+34,M,Caucasian,No,Yes,High,Good,Yes,Good,No,132,Low,Low,High Functioning
+21,M,Asian,Yes,Yes,Low,Good,No,Poor,Yes,86,High,Moderate,High Functioning
+12,F,Other,No,Yes,High,Good,Yes,Good,No,121,High,High,None
+35,F,Asian,Yes,Yes,Low,Average,Yes,Good,Yes,98,Low,Low,PDD-NOS
+5,M,Asian,Yes,No,Low,Good,Yes,Average,No,97,High,Low,PDD-NOS
+38,F,Caucasian,No,No,Low,Poor,Yes,Good,No,115,Moderate,Moderate,Asperger
+5,M,Asian,No,No,Low,Poor,Yes,Poor,No,87,Moderate,Low,None
+17,M,Hispanic,Yes,Yes,High,Good,Yes,Poor,Yes,91,Moderate,Moderate,None
+32,M,Hispanic,Yes,Yes,Moderate,Poor,No,Average,No,106,Moderate,High,High Functioning
+37,F,Caucasian,Yes,No,Low,Poor,Yes,Good,No,77,Low,High,Asperger
+35,M,Asian,Yes,Yes,Low,Good,Yes,Good,Yes,121,Low,High,None
+40,M,Other,Yes,No,High,Good,No,Average,Yes,110,Low,Moderate,None
+27,M,African,No,No,Low,Poor,No,Good,Yes,79,High,Low,Asperger
+10,F,Asian,Yes,No,Moderate,Poor,No,Good,No,137,Low,High,PDD-NOS
+21,M,Caucasian,No,Yes,Low,Good,Yes,Average,No,96,High,Moderate,None
+18,F,African,Yes,Yes,High,Average,No,Poor,Yes,112,Low,High,High Functioning
+12,F,Other,No,Yes,Low,Poor,Yes,Good,Yes,117,High,High,Classic Autism
+10,M,African,No,Yes,Moderate,Poor,Yes,Good,Yes,115,High,Moderate,PDD-NOS
+11,M,Caucasian,Yes,No,Low,Poor,No,Average,Yes,104,Low,High,None
+4,F,Caucasian,Yes,No,Moderate,Average,Yes,Poor,Yes,94,Moderate,Moderate,None
+6,F,African,No,No,Low,Poor,No,Poor,No,74,Low,High,Asperger
+22,F,Other,Yes,No,High,Poor,No,Poor,No,70,High,High,Classic Autism
+14,F,Hispanic,Yes,No,High,Average,Yes,Good,No,134,Moderate,High,Asperger
+27,F,Other,Yes,Yes,Moderate,Good,No,Good,Yes,108,Moderate,High,PDD-NOS
+21,F,Caucasian,No,No,Moderate,Average,No,Good,Yes,135,Moderate,High,None
+7,F,Other,No,Yes,Low,Good,No,Poor,Yes,88,Low,Low,None
+32,M,Hispanic,No,Yes,High,Good,No,Average,No,101,Low,High,Classic Autism
+8,F,Caucasian,Yes,No,Low,Good,Yes,Poor,No,87,Moderate,High,Asperger
+37,F,Hispanic,No,No,Low,Good,No,Average,No,101,High,Moderate,PDD-NOS
+35,F,Caucasian,No,No,Low,Good,No,Poor,No,112,Moderate,High,None
+11,M,Hispanic,Yes,Yes,Low,Average,No,Average,No,123,Low,Low,PDD-NOS
+26,M,Other,No,No,Low,Average,No,Average,No,138,High,High,Asperger
+40,M,Hispanic,Yes,No,Moderate,Average,Yes,Average,No,121,High,Low,PDD-NOS
+10,M,Hispanic,Yes,Yes,High,Average,Yes,Average,Yes,76,Moderate,Moderate,None
+31,F,African,No,No,Moderate,Average,Yes,Average,Yes,139,Low,Moderate,None
+6,M,Asian,Yes,Yes,Low,Good,Yes,Poor,Yes,130,High,Low,Classic Autism
+15,F,African,No,Yes,High,Good,Yes,Poor,No,83,High,Low,High Functioning
+38,F,Hispanic,Yes,Yes,High,Good,Yes,Poor,No,85,High,Low,None
+24,F,African,Yes,No,Low,Average,No,Poor,No,116,High,Moderate,PDD-NOS
+29,M,Other,No,No,Moderate,Average,No,Average,Yes,81,Moderate,Moderate,None
+31,F,African,Yes,No,Moderate,Poor,No,Poor,No,103,Moderate,Moderate,High Functioning
+19,M,Other,Yes,Yes,Low,Good,No,Average,Yes,130,High,High,Asperger
+3,M,African,Yes,No,High,Poor,No,Good,No,130,High,High,None
+37,F,African,No,No,Moderate,Average,Yes,Poor,Yes,110,Low,High,Asperger
+13,M,Caucasian,No,No,High,Good,No,Poor,Yes,107,Low,Moderate,None
+2,M,African,Yes,Yes,High,Average,Yes,Good,No,83,Low,High,None
+32,F,African,Yes,Yes,Moderate,Average,Yes,Poor,No,132,Low,High,Classic Autism
+5,M,Caucasian,No,Yes,Low,Poor,No,Good,Yes,136,Moderate,Moderate,High Functioning
+21,F,African,Yes,Yes,Low,Good,Yes,Average,Yes,90,Low,Low,Classic Autism
+12,M,Hispanic,No,No,Moderate,Poor,Yes,Average,No,128,Low,High,None
+18,M,Hispanic,Yes,Yes,High,Poor,No,Poor,Yes,77,Low,Moderate,Classic Autism
+38,F,Hispanic,Yes,No,High,Average,No,Average,No,126,Low,High,None
+29,F,Other,No,Yes,Low,Poor,Yes,Good,No,75,Low,Moderate,Classic Autism
+30,F,Caucasian,No,No,Low,Average,No,Average,No,111,High,Low,High Functioning
+23,F,Hispanic,No,No,High,Poor,No,Poor,No,102,Moderate,Low,High Functioning
+27,M,Other,No,No,Low,Poor,No,Good,No,126,Low,Low,None
+10,F,Hispanic,No,Yes,Low,Good,Yes,Good,Yes,109,High,Low,Classic Autism
+7,M,Asian,No,Yes,High,Poor,No,Good,No,135,High,Moderate,Asperger
+32,F,Caucasian,No,Yes,Moderate,Poor,Yes,Poor,No,123,Moderate,High,Classic Autism
+2,F,African,No,Yes,Moderate,Good,No,Average,No,140,High,Moderate,Asperger
+22,M,Caucasian,No,Yes,Moderate,Poor,No,Good,No,118,Moderate,High,PDD-NOS
+11,F,Asian,Yes,No,Low,Average,Yes,Good,No,71,High,Low,Asperger
+11,M,Hispanic,No,No,High,Good,No,Good,Yes,112,High,High,None
+22,F,Other,Yes,Yes,Low,Good,No,Poor,Yes,125,Low,High,PDD-NOS
+8,F,Caucasian,No,Yes,Low,Average,Yes,Average,No,117,Moderate,Low,None
+28,M,Caucasian,Yes,Yes,High,Average,Yes,Average,Yes,99,Moderate,High,None
+18,M,Hispanic,No,Yes,Low,Average,No,Good,No,124,High,Moderate,Asperger
+21,M,Hispanic,No,Yes,Low,Average,No,Good,No,107,Low,High,None
+2,M,Other,No,No,Low,Good,No,Poor,Yes,102,High,High,PDD-NOS
+10,M,Asian,No,No,Low,Good,No,Good,Yes,81,Moderate,Moderate,PDD-NOS
+13,M,Caucasian,No,No,Low,Average,No,Average,No,84,Moderate,Low,None
+16,F,Other,No,Yes,Moderate,Poor,No,Good,Yes,128,Moderate,High,PDD-NOS
+18,F,African,Yes,Yes,Moderate,Poor,No,Good,Yes,78,High,Moderate,High Functioning
+21,F,Asian,Yes,Yes,Low,Average,No,Poor,Yes,100,High,Low,None
+25,F,Other,Yes,No,High,Poor,No,Good,No,105,Low,High,None
+30,F,Caucasian,No,Yes,High,Average,No,Poor,No,105,Low,Low,High Functioning
+31,M,Caucasian,Yes,Yes,Moderate,Poor,Yes,Good,Yes,78,High,Low,Classic Autism
+16,F,Caucasian,Yes,No,Low,Poor,No,Poor,Yes,73,Low,Low,None
+17,F,Asian,Yes,No,Low,Poor,No,Good,Yes,78,Moderate,Moderate,PDD-NOS
+34,M,Hispanic,Yes,Yes,High,Good,No,Average,Yes,77,Moderate,Moderate,None
+29,M,Hispanic,No,Yes,Low,Average,Yes,Poor,Yes,105,High,High,Classic Autism
+22,F,Other,No,No,High,Good,No,Poor,Yes,140,High,Low,Asperger
+16,F,African,No,No,Moderate,Good,Yes,Average,No,110,High,Moderate,None
+11,F,Asian,Yes,Yes,Low,Average,Yes,Good,No,86,High,Low,Classic Autism
+37,F,Asian,No,No,High,Average,Yes,Average,No,115,Low,High,Asperger
+11,F,Caucasian,Yes,No,High,Average,Yes,Average,Yes,124,High,High,Classic Autism
+37,M,Other,No,Yes,Low,Average,No,Average,No,70,Low,Low,Classic Autism
+27,M,Caucasian,Yes,Yes,High,Good,Yes,Average,No,128,Moderate,Low,None
+25,F,African,Yes,Yes,Low,Poor,Yes,Good,Yes,104,Moderate,High,Asperger
+40,F,Hispanic,No,Yes,High,Poor,No,Average,Yes,106,High,High,Classic Autism
+35,F,Asian,Yes,No,High,Poor,Yes,Poor,No,97,Low,Moderate,None
+9,M,Hispanic,No,Yes,Low,Average,Yes,Good,No,79,Moderate,High,None
+3,F,Asian,No,No,High,Average,No,Average,Yes,121,Low,Moderate,None
+31,F,Asian,No,Yes,Low,Average,No,Good,Yes,120,Moderate,High,None
+23,M,Asian,Yes,Yes,Moderate,Average,Yes,Poor,Yes,88,Moderate,Low,None
+11,M,Caucasian,No,No,High,Good,No,Good,No,110,Low,Moderate,None
+30,F,African,Yes,No,High,Poor,No,Average,No,74,Low,Moderate,PDD-NOS
+6,M,Other,No,No,High,Good,Yes,Average,Yes,111,High,Moderate,Asperger
+5,F,Asian,No,Yes,High,Good,Yes,Poor,Yes,126,Moderate,High,Asperger
+12,F,African,No,No,Moderate,Average,Yes,Good,No,78,Moderate,Low,Classic Autism
+26,F,African,Yes,No,Low,Good,Yes,Average,No,120,Low,High,PDD-NOS
+7,F,Other,No,No,Low,Good,Yes,Good,No,135,Moderate,Low,None
+13,M,African,No,Yes,Low,Poor,Yes,Poor,No,82,High,High,PDD-NOS
+35,M,African,Yes,No,Low,Poor,Yes,Good,Yes,126,Low,Moderate,None
+17,F,Other,No,No,Low,Good,Yes,Average,No,94,Moderate,High,High Functioning
+30,F,African,No,No,Low,Poor,Yes,Average,Yes,131,Moderate,High,High Functioning
+35,M,African,Yes,Yes,Moderate,Average,Yes,Average,Yes,98,Moderate,Moderate,High Functioning
+28,M,Hispanic,No,Yes,Moderate,Poor,No,Poor,Yes,110,Low,High,Classic Autism
+11,M,Asian,No,No,High,Poor,No,Average,Yes,80,Low,Moderate,None
+11,F,Asian,No,Yes,Moderate,Poor,Yes,Poor,No,128,Low,Low,PDD-NOS
+33,M,Other,Yes,Yes,Moderate,Average,Yes,Good,No,100,High,Moderate,None
+7,F,Asian,Yes,No,Moderate,Poor,No,Average,No,72,Moderate,Low,None
+8,F,Caucasian,Yes,No,High,Average,Yes,Good,No,131,High,Low,PDD-NOS
+6,F,Asian,No,Yes,Low,Poor,Yes,Average,No,135,Moderate,High,Classic Autism
+4,M,African,No,Yes,High,Average,No,Poor,No,125,Moderate,High,Asperger
+26,F,Caucasian,No,No,Moderate,Good,No,Poor,No,80,Moderate,High,High Functioning
+13,F,African,Yes,Yes,Moderate,Good,No,Average,No,124,Low,High,Asperger
+30,M,African,No,No,High,Poor,Yes,Good,No,116,High,High,Classic Autism
+3,M,Other,No,Yes,Low,Poor,Yes,Good,No,116,Moderate,High,Classic Autism
+11,F,African,No,No,Low,Good,Yes,Good,No,120,Moderate,High,None
+9,M,Caucasian,No,No,High,Poor,No,Average,No,97,High,Moderate,Classic Autism
+33,M,Asian,Yes,Yes,Moderate,Poor,No,Poor,No,114,High,Low,Asperger
+20,F,Caucasian,Yes,No,High,Poor,Yes,Poor,Yes,100,Moderate,Low,None
+38,F,Hispanic,Yes,Yes,Low,Average,No,Good,No,137,Moderate,Moderate,PDD-NOS
+6,M,African,Yes,No,Moderate,Good,No,Poor,Yes,86,Moderate,High,High Functioning
+5,M,Other,Yes,No,Low,Poor,No,Good,Yes,114,High,Moderate,PDD-NOS
+18,M,Other,No,Yes,High,Average,Yes,Good,Yes,89,Low,High,Classic Autism
+40,F,Other,Yes,Yes,Low,Poor,No,Good,Yes,123,High,High,None
+36,F,African,No,Yes,High,Average,No,Average,Yes,77,Low,Moderate,Asperger
+31,M,African,Yes,No,High,Average,No,Average,Yes,117,High,High,None
+17,F,Asian,No,No,Low,Poor,Yes,Poor,No,119,High,Moderate,None
+12,F,Other,No,Yes,Low,Average,No,Average,No,133,Low,Low,High Functioning
+34,F,Caucasian,Yes,No,Low,Poor,No,Average,No,106,High,Low,PDD-NOS
+29,M,African,No,No,Moderate,Poor,No,Poor,Yes,116,High,Moderate,None
+34,F,Other,No,Yes,Low,Poor,No,Average,No,116,Low,Low,Classic Autism
+27,M,Asian,Yes,Yes,High,Average,No,Good,No,89,High,High,None
+22,M,Hispanic,No,No,High,Good,No,Good,No,130,Low,Moderate,None
+9,F,Other,No,Yes,High,Average,No,Good,Yes,76,High,Moderate,None
+26,M,Caucasian,Yes,Yes,Low,Poor,No,Average,No,89,Moderate,High,None
+34,F,Asian,Yes,Yes,High,Average,No,Good,No,110,Low,Moderate,High Functioning
+23,F,African,No,Yes,Low,Average,No,Poor,No,106,High,Low,Classic Autism
+33,F,Hispanic,No,No,Moderate,Poor,No,Average,No,88,Moderate,Low,None
+7,F,Hispanic,No,No,Low,Poor,No,Good,No,87,Low,High,PDD-NOS
+17,M,Asian,Yes,Yes,Low,Poor,No,Average,No,82,High,Low,None
+37,M,Hispanic,No,No,High,Poor,No,Average,No,77,Low,High,Classic Autism
+36,M,Caucasian,No,Yes,Low,Average,No,Poor,No,74,Low,Moderate,Classic Autism
+8,F,African,No,No,Low,Good,No,Average,Yes,84,Moderate,Low,PDD-NOS
+18,M,Asian,No,No,High,Good,Yes,Poor,No,124,High,Moderate,None
+8,M,Caucasian,No,No,Low,Poor,No,Average,Yes,127,Moderate,Moderate,None
+38,M,African,No,Yes,Low,Good,Yes,Average,No,90,Moderate,High,Asperger
+21,M,African,No,Yes,Low,Poor,No,Poor,No,117,Moderate,High,Asperger
+32,M,Caucasian,Yes,No,High,Good,No,Poor,Yes,77,High,High,None
+14,M,Caucasian,No,No,Low,Good,Yes,Good,No,81,High,Moderate,PDD-NOS
+31,M,Other,No,No,High,Poor,No,Good,No,72,Moderate,Moderate,PDD-NOS
+15,M,Asian,No,No,High,Poor,Yes,Poor,No,74,Moderate,Moderate,None
+10,F,African,No,No,Moderate,Average,Yes,Good,Yes,114,Low,Low,High Functioning
+27,M,Caucasian,Yes,Yes,Moderate,Average,No,Good,No,99,Low,Moderate,None
+19,M,Asian,Yes,No,High,Poor,Yes,Poor,Yes,82,High,Low,Asperger
+5,M,Asian,No,No,Low,Good,Yes,Poor,Yes,134,Moderate,Low,PDD-NOS
+38,F,Other,No,Yes,Moderate,Poor,Yes,Average,No,105,Low,High,PDD-NOS
+13,F,Other,No,Yes,Moderate,Good,No,Good,No,123,Moderate,Low,None
+13,F,Caucasian,Yes,No,High,Poor,No,Poor,No,123,High,High,None
+17,F,Caucasian,No,Yes,Moderate,Average,Yes,Good,Yes,76,Moderate,Moderate,Classic Autism
+40,M,Asian,Yes,Yes,Moderate,Poor,No,Average,Yes,97,Low,High,None
+32,M,Other,Yes,No,Low,Good,No,Average,No,129,High,High,None
+18,F,Other,No,No,Low,Good,No,Average,Yes,117,Moderate,Moderate,None
+16,M,Asian,No,No,Moderate,Poor,Yes,Average,Yes,118,High,Low,Asperger
+23,F,Hispanic,No,No,Low,Good,No,Poor,Yes,139,Moderate,Low,High Functioning
+36,M,Other,Yes,Yes,High,Poor,Yes,Average,Yes,99,Low,High,None
+15,F,African,Yes,No,High,Average,Yes,Poor,No,71,Low,High,PDD-NOS
+36,F,Asian,No,Yes,Low,Poor,Yes,Poor,Yes,137,Moderate,Moderate,Classic Autism
+27,M,African,No,No,High,Poor,Yes,Average,Yes,74,Low,Moderate,None
+37,F,Asian,Yes,Yes,Low,Average,No,Good,No,82,High,Low,None
+38,F,African,Yes,Yes,High,Average,Yes,Poor,No,72,Low,High,None
+27,M,African,Yes,Yes,High,Average,No,Average,Yes,80,High,High,High Functioning
+5,M,Hispanic,Yes,Yes,Moderate,Good,No,Average,Yes,104,Moderate,Moderate,None
+37,F,Hispanic,Yes,No,Low,Good,No,Poor,Yes,80,Moderate,Low,None
+11,F,African,No,Yes,Low,Poor,No,Average,No,104,Low,Low,None
+29,F,Other,No,Yes,Low,Poor,No,Good,Yes,111,Moderate,Low,None
+26,M,Other,Yes,Yes,High,Average,Yes,Poor,No,108,Moderate,Moderate,None
+12,F,African,No,No,Moderate,Poor,No,Average,Yes,133,High,High,None
+8,M,African,Yes,No,Moderate,Good,No,Average,No,112,Moderate,High,High Functioning
+10,F,African,Yes,No,Moderate,Poor,No,Average,No,132,High,Low,None
+19,F,African,Yes,Yes,High,Good,Yes,Good,Yes,129,High,Low,None
+30,F,Asian,No,No,Low,Good,No,Poor,No,89,High,Moderate,PDD-NOS
+6,F,Other,No,No,High,Good,No,Good,Yes,116,High,High,Classic Autism
+7,M,Caucasian,No,Yes,High,Good,Yes,Good,No,112,Moderate,Low,None
+18,M,Other,Yes,No,Moderate,Average,No,Good,Yes,114,Low,Moderate,None
+28,M,Asian,Yes,No,Moderate,Average,No,Poor,No,114,Moderate,Low,Asperger
+30,F,Asian,No,Yes,High,Poor,Yes,Average,Yes,91,High,Low,Classic Autism
+37,M,African,No,No,Low,Average,Yes,Poor,No,120,Low,High,Classic Autism
+14,F,Other,No,No,Low,Good,Yes,Poor,No,78,High,Low,PDD-NOS
+36,M,African,No,Yes,Moderate,Poor,No,Good,No,137,High,Moderate,Classic Autism
+27,M,African,No,No,High,Poor,No,Good,Yes,87,Moderate,Low,None
+9,M,African,Yes,No,Moderate,Good,Yes,Good,No,124,Low,Moderate,Classic Autism
+13,M,Hispanic,No,Yes,Low,Average,No,Good,Yes,115,Low,Moderate,None
+26,F,Hispanic,No,No,High,Average,No,Poor,Yes,73,Low,Moderate,None
+16,F,Caucasian,No,No,High,Good,Yes,Good,Yes,104,High,Moderate,Asperger
+4,F,Other,Yes,No,Low,Good,Yes,Average,Yes,127,Moderate,Moderate,High Functioning
+7,F,Asian,Yes,Yes,High,Good,No,Good,No,91,High,Low,None
+15,M,Asian,No,No,High,Good,Yes,Average,No,107,High,Moderate,High Functioning
+34,M,Caucasian,No,Yes,Moderate,Good,Yes,Good,Yes,101,Low,High,None
+17,F,Hispanic,Yes,No,High,Average,No,Average,Yes,81,Moderate,High,PDD-NOS
+25,F,Hispanic,No,Yes,High,Poor,No,Good,No,78,High,Moderate,None
+29,M,Hispanic,No,No,Moderate,Average,Yes,Good,No,113,High,Low,None
+31,M,Asian,Yes,No,Moderate,Poor,No,Poor,Yes,108,Low,Moderate,None
+25,F,Asian,No,Yes,Low,Average,No,Good,Yes,124,High,Low,PDD-NOS
+2,M,Hispanic,Yes,Yes,High,Poor,No,Poor,Yes,113,Low,Moderate,Classic Autism
+32,M,Caucasian,No,Yes,High,Poor,Yes,Average,No,108,Low,Moderate,Asperger
+10,M,Asian,Yes,Yes,Moderate,Average,Yes,Good,Yes,122,High,High,Asperger
+15,M,Asian,Yes,Yes,High,Good,No,Average,No,110,Low,Low,None
+19,M,Caucasian,No,Yes,High,Average,Yes,Good,Yes,120,Moderate,High,None
+17,F,Hispanic,Yes,Yes,Moderate,Good,Yes,Good,Yes,116,Moderate,Low,None
+38,F,African,Yes,No,Low,Poor,Yes,Poor,No,97,Low,Low,High Functioning
+27,F,Other,No,No,High,Average,Yes,Good,Yes,105,Low,Moderate,None
+15,M,Other,No,No,High,Good,Yes,Average,No,100,Low,Low,None
+29,M,Hispanic,Yes,No,High,Good,Yes,Poor,Yes,87,High,Low,None
+12,F,African,No,Yes,Moderate,Poor,No,Good,Yes,73,Moderate,Moderate,None
+6,F,Other,Yes,No,Moderate,Good,No,Poor,No,91,Moderate,Low,None
+8,M,Caucasian,Yes,Yes,Low,Poor,Yes,Average,No,119,Low,Low,High Functioning
+4,F,Caucasian,No,Yes,Moderate,Good,No,Average,Yes,117,Low,High,Classic Autism
+5,M,Caucasian,Yes,No,Low,Average,No,Average,No,81,High,Moderate,None
+14,F,Other,No,Yes,Moderate,Average,No,Poor,Yes,89,Low,Moderate,None
+36,F,Asian,No,Yes,High,Average,No,Poor,Yes,137,Low,Moderate,Asperger
+5,M,African,Yes,Yes,Low,Good,No,Good,No,128,High,Low,Classic Autism
+34,M,Hispanic,Yes,Yes,Moderate,Good,Yes,Poor,No,103,Moderate,Moderate,PDD-NOS
+22,F,Hispanic,No,Yes,Low,Poor,Yes,Good,Yes,89,Low,Low,Classic Autism
+22,F,Asian,No,Yes,Moderate,Average,No,Average,Yes,81,Low,High,None
+40,M,Caucasian,No,Yes,Low,Good,Yes,Average,No,135,Low,High,None
+13,M,Hispanic,No,Yes,Low,Average,Yes,Poor,Yes,71,Low,Low,None
+27,F,Asian,No,Yes,Low,Poor,Yes,Good,No,86,Low,Moderate,Classic Autism
+31,M,Caucasian,No,No,Moderate,Poor,No,Good,No,92,Moderate,Low,High Functioning
+19,F,Hispanic,Yes,Yes,High,Good,Yes,Good,No,133,Moderate,High,None
+32,M,Asian,No,No,Low,Average,Yes,Good,Yes,139,Low,Moderate,PDD-NOS
+24,F,Other,No,No,High,Good,No,Average,No,93,Low,Moderate,Classic Autism
+3,F,Asian,No,No,High,Poor,Yes,Poor,Yes,100,Moderate,High,PDD-NOS
+5,M,Other,No,No,Low,Poor,Yes,Good,No,115,High,Low,PDD-NOS
+24,M,Other,Yes,No,High,Average,Yes,Average,Yes,81,Low,Low,Classic Autism
+3,F,Asian,No,Yes,Low,Average,Yes,Average,Yes,72,Low,High,PDD-NOS
+11,M,Other,No,Yes,Moderate,Good,No,Good,Yes,113,Moderate,Moderate,None
+12,F,Hispanic,No,Yes,High,Good,No,Poor,Yes,118,Moderate,High,Classic Autism
+10,M,Asian,No,Yes,Low,Good,No,Good,Yes,83,Moderate,Low,None
+6,M,African,No,Yes,High,Poor,No,Average,Yes,103,Low,Low,Classic Autism
+24,F,Asian,Yes,Yes,Moderate,Average,No,Poor,No,133,Moderate,Moderate,Asperger
+8,F,Other,Yes,Yes,Moderate,Poor,Yes,Average,Yes,110,Moderate,Low,None
+12,F,Caucasian,Yes,Yes,Moderate,Good,No,Good,Yes,125,High,Low,Classic Autism
+29,M,Asian,Yes,No,Low,Poor,No,Good,No,106,Moderate,Low,None
+27,F,Caucasian,Yes,No,Low,Average,Yes,Average,No,95,Low,Low,None
+20,M,Hispanic,Yes,No,Moderate,Average,No,Good,No,81,High,High,None
+25,F,African,Yes,No,Low,Average,No,Average,No,98,Moderate,High,None
+8,M,African,No,Yes,High,Poor,No,Good,No,138,High,Moderate,Classic Autism
+17,F,African,Yes,No,High,Poor,Yes,Poor,No,92,Low,Low,PDD-NOS
+10,M,Hispanic,Yes,No,Low,Good,Yes,Good,No,110,High,Low,None
+37,F,Other,No,No,High,Average,Yes,Good,No,84,Moderate,Low,None
+39,M,Asian,Yes,No,High,Average,No,Average,No,132,High,High,Asperger
+13,F,Hispanic,Yes,No,Low,Average,No,Good,Yes,76,High,Moderate,High Functioning
+25,M,African,No,No,Moderate,Average,Yes,Poor,Yes,108,High,Moderate,PDD-NOS
+22,F,Hispanic,Yes,Yes,Moderate,Poor,No,Good,No,136,Moderate,Low,Asperger
+12,M,African,No,Yes,High,Good,Yes,Poor,Yes,95,Low,Low,None
+5,F,Caucasian,No,No,Moderate,Good,No,Good,Yes,73,Low,Moderate,Asperger
+30,M,Hispanic,No,No,Low,Average,Yes,Average,Yes,119,Low,Low,High Functioning
+15,M,Caucasian,Yes,No,High,Average,Yes,Good,Yes,130,Low,High,None
+2,M,African,No,No,Moderate,Average,No,Average,No,97,Moderate,Moderate,Classic Autism
+27,M,Asian,No,No,Moderate,Good,Yes,Average,Yes,113,Moderate,High,None
+19,F,African,Yes,Yes,High,Poor,Yes,Good,No,110,High,Low,PDD-NOS
+33,F,African,No,No,Moderate,Good,Yes,Good,Yes,113,High,High,None
+36,F,African,No,Yes,High,Good,Yes,Average,Yes,130,Low,High,None
+37,M,African,Yes,Yes,Moderate,Poor,No,Average,No,117,Moderate,High,None
+9,F,Asian,Yes,No,Low,Good,Yes,Good,No,137,Moderate,Moderate,None
+11,M,Caucasian,No,No,High,Average,Yes,Average,Yes,80,Moderate,Moderate,Classic Autism
+13,F,Asian,Yes,No,Moderate,Poor,Yes,Good,Yes,132,Low,Low,Classic Autism
+29,F,Hispanic,No,No,Low,Poor,Yes,Good,No,71,Moderate,High,None
+2,M,Caucasian,No,No,Low,Poor,No,Good,No,91,Low,Low,None
+20,F,Other,No,No,High,Poor,No,Average,No,94,Low,Moderate,None
+16,M,Caucasian,Yes,Yes,Low,Average,Yes,Average,No,138,High,Low,Classic Autism
+5,M,Asian,Yes,Yes,Moderate,Average,No,Poor,No,130,High,Low,None
+2,F,Hispanic,Yes,No,High,Good,Yes,Average,Yes,135,High,High,None
+9,F,Asian,Yes,No,Low,Good,Yes,Average,Yes,115,High,Moderate,None
+4,F,Caucasian,No,No,Low,Poor,Yes,Good,Yes,84,High,High,Asperger
+7,M,Asian,No,Yes,Moderate,Average,No,Average,Yes,82,Low,Low,High Functioning
+25,F,Hispanic,Yes,Yes,Low,Poor,Yes,Good,Yes,112,Moderate,Moderate,High Functioning
+19,M,African,No,Yes,Low,Average,No,Average,No,119,High,Moderate,PDD-NOS
+12,M,Caucasian,Yes,Yes,Low,Average,No,Good,No,93,High,Moderate,PDD-NOS
+3,M,Hispanic,No,Yes,Moderate,Average,Yes,Poor,No,110,Low,High,High Functioning
+35,M,African,Yes,No,High,Good,Yes,Average,No,119,Low,High,None
+5,M,Caucasian,No,No,Low,Poor,No,Average,Yes,112,Moderate,Low,Asperger
+37,F,Hispanic,Yes,Yes,Moderate,Average,No,Poor,No,127,Moderate,Low,High Functioning
+3,M,Hispanic,No,Yes,High,Good,Yes,Poor,No,135,High,Low,Classic Autism
+31,F,African,Yes,Yes,Moderate,Average,No,Good,No,127,Low,Low,PDD-NOS
+16,M,African,No,No,High,Good,No,Good,Yes,75,Low,Moderate,None
+28,M,African,Yes,Yes,Low,Average,Yes,Average,Yes,113,Low,Moderate,None
+39,M,Hispanic,No,Yes,Moderate,Poor,Yes,Good,No,131,High,Low,Asperger
+13,M,Asian,No,No,High,Average,No,Good,Yes,105,Moderate,Moderate,High Functioning
+30,M,Caucasian,No,No,High,Good,No,Good,Yes,95,Low,High,PDD-NOS
+24,M,Caucasian,No,Yes,Moderate,Good,No,Good,No,138,Moderate,Moderate,PDD-NOS
+35,M,Asian,No,Yes,Low,Good,Yes,Poor,No,90,Moderate,High,None
+5,F,Caucasian,Yes,No,Moderate,Poor,Yes,Good,No,100,High,High,None
+5,F,Hispanic,No,No,High,Poor,Yes,Good,No,95,High,Moderate,PDD-NOS
+25,M,Caucasian,No,No,Low,Good,Yes,Poor,Yes,135,Low,Moderate,None
+19,F,Caucasian,Yes,No,Low,Average,No,Good,Yes,75,Low,Moderate,Classic Autism
+21,F,Other,No,Yes,High,Average,Yes,Poor,Yes,134,Low,Moderate,Asperger
+27,M,African,Yes,Yes,High,Average,No,Average,No,97,High,High,Asperger
+37,M,Asian,No,No,Low,Good,Yes,Poor,No,118,Low,Moderate,None
+20,M,Other,No,No,Moderate,Poor,No,Good,Yes,111,High,Low,High Functioning
+12,M,Asian,Yes,Yes,High,Average,Yes,Poor,No,79,High,High,None
+31,F,Asian,Yes,Yes,Low,Poor,No,Good,Yes,99,Moderate,Moderate,None
+27,F,African,Yes,No,High,Poor,Yes,Good,Yes,75,High,Low,None
+34,M,African,No,Yes,Moderate,Average,No,Average,Yes,130,Low,High,None
+27,F,Caucasian,No,No,Low,Good,Yes,Poor,Yes,70,High,High,None
+37,M,African,Yes,No,Low,Average,Yes,Poor,Yes,98,High,Moderate,None
+13,M,Other,No,Yes,Moderate,Good,Yes,Average,Yes,95,High,High,Asperger
+23,F,Caucasian,Yes,Yes,Moderate,Good,Yes,Poor,No,132,Moderate,Moderate,Classic Autism
+21,M,Other,No,No,Moderate,Poor,Yes,Average,Yes,98,High,High,Classic Autism
+19,F,Caucasian,No,No,Moderate,Average,No,Average,No,140,Low,Low,Classic Autism
+7,F,Caucasian,Yes,No,High,Good,Yes,Good,Yes,72,High,High,None
+3,F,Other,Yes,Yes,High,Average,No,Good,Yes,116,Moderate,Low,High Functioning
+39,F,Caucasian,No,Yes,Moderate,Average,Yes,Good,Yes,91,High,Low,Asperger
+13,M,Hispanic,No,Yes,Low,Average,Yes,Poor,No,117,Low,Low,Classic Autism
+35,F,Hispanic,No,No,Low,Poor,No,Poor,No,103,High,High,Classic Autism
+26,F,African,Yes,No,Moderate,Poor,No,Average,No,132,Moderate,High,None
+10,F,Caucasian,Yes,Yes,High,Good,No,Poor,Yes,93,Low,Moderate,None
+40,M,Caucasian,No,No,High,Poor,No,Good,No,131,Low,High,None
+28,M,Caucasian,Yes,Yes,High,Good,Yes,Poor,Yes,88,Low,Low,None
+18,M,Other,No,Yes,High,Good,No,Poor,Yes,127,High,Moderate,High Functioning
+12,M,Hispanic,Yes,Yes,High,Good,No,Poor,No,128,High,High,None
+6,M,Hispanic,No,Yes,Low,Poor,Yes,Good,No,89,High,Low,Classic Autism
+40,M,Other,Yes,Yes,Moderate,Good,Yes,Good,Yes,125,High,Moderate,None
+4,F,Caucasian,No,No,Moderate,Good,Yes,Average,Yes,102,Moderate,Low,High Functioning
+7,F,Other,No,No,Low,Poor,Yes,Good,Yes,136,Low,Moderate,Classic Autism
+22,F,African,Yes,Yes,Moderate,Good,No,Average,No,116,High,Moderate,High Functioning
+27,M,Hispanic,No,Yes,Moderate,Good,No,Average,No,114,High,Moderate,PDD-NOS
+9,M,Hispanic,Yes,Yes,Low,Good,No,Average,Yes,90,Moderate,High,None
+7,M,Hispanic,No,Yes,Low,Average,Yes,Average,Yes,74,High,Moderate,High Functioning
+27,F,Other,Yes,Yes,High,Average,No,Poor,Yes,136,Moderate,Low,None
+40,M,Other,Yes,Yes,Moderate,Poor,Yes,Poor,Yes,105,Moderate,Moderate,Classic Autism
+27,M,Other,Yes,Yes,Low,Good,No,Good,No,114,Moderate,Low,Classic Autism
+14,F,Hispanic,Yes,No,Low,Average,Yes,Good,Yes,134,Moderate,Moderate,High Functioning
+34,F,Other,No,No,Moderate,Good,No,Poor,No,128,High,Moderate,High Functioning
+3,F,Asian,No,Yes,Moderate,Good,Yes,Good,Yes,110,Moderate,Moderate,Asperger
+2,F,Caucasian,No,Yes,Moderate,Good,No,Poor,Yes,130,Moderate,Moderate,None
+38,F,Caucasian,Yes,No,High,Poor,Yes,Good,Yes,103,Low,Low,None
+17,F,Caucasian,Yes,Yes,Low,Good,No,Good,Yes,139,Low,Moderate,None
+22,F,Other,No,No,Low,Good,No,Average,Yes,86,Low,High,PDD-NOS
+32,M,Other,No,No,High,Poor,No,Poor,No,110,High,Low,None
+15,F,Other,Yes,No,Moderate,Good,No,Poor,No,100,Moderate,Moderate,High Functioning
+23,F,Caucasian,No,No,Low,Average,No,Average,No,105,Moderate,Low,Classic Autism
+38,M,Asian,No,Yes,High,Average,No,Poor,Yes,89,Moderate,Low,None
+33,M,Other,No,No,Moderate,Average,Yes,Average,Yes,90,Low,Low,PDD-NOS
+32,M,Hispanic,No,No,Moderate,Average,No,Average,Yes,122,Low,Moderate,High Functioning
+40,M,Other,Yes,No,Moderate,Average,No,Good,No,80,Moderate,High,None
+11,M,African,No,No,Low,Poor,Yes,Average,Yes,110,Moderate,High,None
+19,F,African,No,No,High,Good,No,Average,Yes,93,Low,Low,PDD-NOS
+18,M,Caucasian,Yes,No,Low,Poor,Yes,Average,Yes,73,Moderate,High,PDD-NOS
+7,M,African,Yes,Yes,High,Average,No,Poor,Yes,106,Moderate,High,None
+35,M,Asian,Yes,No,Moderate,Average,No,Good,No,140,Moderate,Low,High Functioning
+36,M,Other,No,No,High,Good,No,Average,No,139,Low,Low,Asperger
+25,F,African,Yes,No,Low,Poor,Yes,Average,No,130,High,Low,Classic Autism
+33,F,African,Yes,No,Moderate,Good,Yes,Poor,No,94,Moderate,High,Asperger
+17,M,Hispanic,No,Yes,Moderate,Poor,No,Good,Yes,136,High,High,Classic Autism
+20,F,Hispanic,Yes,Yes,Low,Poor,No,Poor,No,127,Moderate,High,Classic Autism
+14,F,Asian,Yes,Yes,High,Poor,Yes,Poor,No,104,Low,High,Asperger
+2,M,Asian,Yes,Yes,Moderate,Poor,No,Average,No,133,Moderate,Moderate,Classic Autism
+4,F,Asian,Yes,Yes,Moderate,Average,Yes,Good,No,93,Low,Moderate,PDD-NOS
+2,M,Caucasian,No,No,Low,Good,Yes,Poor,No,82,High,High,High Functioning
+32,F,African,No,Yes,High,Good,Yes,Good,Yes,102,Moderate,High,None
+25,M,Caucasian,Yes,Yes,High,Average,No,Poor,Yes,105,High,Low,None
+17,M,Asian,No,Yes,Moderate,Poor,Yes,Poor,No,81,High,High,Classic Autism
+5,M,African,Yes,Yes,Low,Average,Yes,Average,No,126,High,Low,None
+26,F,Caucasian,No,Yes,Moderate,Good,No,Good,No,139,High,Moderate,None
+13,F,African,No,No,High,Good,Yes,Poor,Yes,127,Moderate,Moderate,Asperger
+31,M,Other,No,Yes,Low,Good,No,Good,Yes,111,High,Low,Classic Autism
+36,F,Caucasian,No,Yes,High,Average,No,Average,No,84,Low,High,Classic Autism
+4,M,Caucasian,Yes,Yes,Low,Average,Yes,Poor,Yes,119,High,Moderate,Asperger
+39,F,Asian,No,Yes,High,Good,Yes,Poor,Yes,132,Low,Moderate,PDD-NOS
+5,F,Other,No,No,High,Poor,No,Good,Yes,79,Moderate,Low,High Functioning
+35,M,Asian,Yes,No,Low,Poor,Yes,Good,Yes,123,High,Low,PDD-NOS
+38,F,Hispanic,No,Yes,Low,Poor,No,Good,No,90,High,High,Asperger
+24,F,Other,No,No,Moderate,Good,No,Good,No,100,High,High,None
+37,F,African,No,No,Moderate,Poor,Yes,Average,Yes,136,Low,Moderate,None
+16,M,African,Yes,No,High,Good,Yes,Poor,Yes,128,Moderate,Low,None
+10,F,African,Yes,Yes,Moderate,Average,Yes,Good,No,97,High,Low,PDD-NOS
+32,M,Hispanic,Yes,No,Low,Good,No,Poor,Yes,112,Moderate,Moderate,Asperger
+9,M,Other,Yes,No,Low,Average,Yes,Average,Yes,111,High,High,None
+5,F,Hispanic,Yes,Yes,Moderate,Average,No,Poor,Yes,113,Low,Moderate,Classic Autism
+5,F,African,Yes,No,High,Average,Yes,Poor,No,95,Moderate,Moderate,Classic Autism
+14,M,Caucasian,Yes,No,Moderate,Average,Yes,Poor,No,124,Moderate,Moderate,None
+24,M,African,Yes,No,High,Average,Yes,Average,Yes,99,Low,High,None
+7,M,Asian,Yes,Yes,Moderate,Poor,No,Good,Yes,109,Moderate,Moderate,None
+15,M,Caucasian,No,No,High,Good,Yes,Good,Yes,118,High,High,Asperger
+18,M,Asian,No,Yes,High,Good,No,Poor,No,71,Low,Moderate,Classic Autism
+25,M,Asian,No,No,Low,Average,Yes,Average,No,138,Low,Low,None
+31,M,Asian,Yes,No,Moderate,Average,No,Good,Yes,72,Moderate,High,None
+21,M,Other,No,Yes,High,Average,No,Poor,No,98,Low,Moderate,High Functioning
+10,M,Hispanic,Yes,No,Low,Good,Yes,Average,No,112,Moderate,High,None
+10,M,Caucasian,No,Yes,Moderate,Poor,Yes,Average,Yes,138,High,Low,Classic Autism
+11,M,African,No,No,Moderate,Average,No,Poor,Yes,83,Low,Low,None
+19,M,Other,Yes,Yes,High,Poor,No,Poor,No,87,High,High,Asperger
+25,M,Hispanic,No,No,Low,Poor,Yes,Poor,Yes,122,Low,Moderate,High Functioning
+16,M,Caucasian,Yes,Yes,Moderate,Good,No,Good,No,128,Low,Moderate,Asperger
+4,F,African,No,Yes,High,Poor,No,Average,Yes,101,High,High,None
+4,F,Other,Yes,Yes,Moderate,Average,No,Average,No,129,Low,Moderate,None
+5,M,Hispanic,No,Yes,High,Good,Yes,Poor,Yes,120,Moderate,Moderate,Asperger
+13,F,Other,Yes,No,Low,Average,No,Good,Yes,85,Low,Low,PDD-NOS
+25,M,Other,No,Yes,Moderate,Good,No,Poor,Yes,112,High,High,High Functioning
+12,M,Caucasian,Yes,No,Moderate,Average,No,Average,Yes,85,Low,Low,None
+18,M,Hispanic,No,No,High,Poor,No,Poor,Yes,130,Moderate,Moderate,Asperger
+40,M,Caucasian,No,Yes,Low,Poor,Yes,Poor,No,74,Low,Low,Asperger
+40,F,African,Yes,Yes,Low,Average,Yes,Poor,No,92,Moderate,High,Classic Autism
+4,M,African,No,No,Moderate,Poor,No,Good,Yes,107,Moderate,Low,None
+19,F,Other,No,Yes,High,Poor,Yes,Poor,Yes,131,High,High,Asperger
+20,F,Other,No,No,High,Good,No,Poor,No,136,High,High,Asperger
+13,M,African,Yes,Yes,Low,Poor,No,Good,Yes,96,High,Moderate,Asperger
+23,F,Other,Yes,Yes,High,Poor,No,Average,Yes,109,Moderate,High,Asperger
+2,M,African,No,No,High,Good,Yes,Poor,Yes,112,Moderate,High,Asperger
+32,M,Caucasian,No,Yes,High,Average,No,Average,No,77,High,Moderate,Classic Autism
+22,M,Caucasian,No,No,Low,Poor,No,Poor,No,118,High,High,PDD-NOS
+38,F,Caucasian,Yes,No,High,Average,Yes,Average,No,81,Moderate,Low,None
+21,M,Other,No,Yes,Low,Average,Yes,Poor,Yes,126,High,Low,PDD-NOS
+34,M,Caucasian,No,No,High,Good,No,Average,Yes,82,High,High,High Functioning
+15,M,Hispanic,No,Yes,Low,Average,Yes,Good,Yes,112,Moderate,Low,None
+21,M,Other,No,Yes,Moderate,Poor,Yes,Average,No,138,Moderate,Moderate,Asperger
+19,M,Caucasian,No,Yes,Low,Good,Yes,Poor,No,140,Moderate,Moderate,None
+20,M,Caucasian,Yes,No,High,Average,No,Poor,Yes,73,Moderate,High,None
+26,M,Asian,No,No,Low,Good,No,Good,No,109,Moderate,Low,PDD-NOS
+36,M,Hispanic,Yes,Yes,High,Average,Yes,Average,No,129,Moderate,Low,High Functioning
+11,F,African,No,Yes,High,Good,No,Average,No,132,Low,Low,Asperger
+24,F,Hispanic,Yes,No,Moderate,Good,Yes,Good,Yes,121,High,Low,None
+6,F,Other,No,No,High,Average,Yes,Good,Yes,140,Low,Moderate,None
+23,M,Other,No,No,High,Average,Yes,Poor,Yes,132,Low,High,Classic Autism
+22,M,Hispanic,Yes,No,Moderate,Poor,Yes,Good,No,111,Moderate,High,Classic Autism
+7,M,Caucasian,Yes,Yes,High,Poor,No,Good,No,119,High,High,Asperger
+15,F,African,No,No,High,Average,Yes,Good,Yes,135,Moderate,Low,High Functioning
+5,F,Other,Yes,Yes,High,Good,No,Poor,No,73,Low,Moderate,None
+39,F,African,No,No,Moderate,Average,Yes,Good,Yes,130,Low,Low,Classic Autism
+25,F,Caucasian,No,Yes,Low,Poor,Yes,Good,Yes,88,High,Moderate,Asperger
+10,M,Caucasian,No,No,High,Good,No,Good,Yes,128,High,Moderate,Classic Autism
+30,F,African,Yes,Yes,Moderate,Good,Yes,Good,No,100,High,High,None
+36,F,Asian,Yes,No,High,Average,Yes,Good,No,80,Low,High,PDD-NOS
+19,F,Other,Yes,Yes,Low,Average,Yes,Good,No,76,Moderate,High,PDD-NOS
+32,F,Other,No,No,Moderate,Average,No,Average,Yes,74,High,High,PDD-NOS
+38,F,Asian,No,Yes,High,Poor,No,Good,Yes,106,Moderate,Low,None
+6,F,African,Yes,No,Moderate,Average,Yes,Good,Yes,92,High,High,None
+30,F,Caucasian,No,Yes,Moderate,Poor,Yes,Average,Yes,88,High,Low,PDD-NOS
+28,F,Caucasian,No,Yes,Low,Good,No,Poor,No,84,Low,Low,Asperger
+32,F,Hispanic,Yes,No,High,Good,No,Average,No,88,High,Moderate,None
+2,F,Hispanic,No,No,High,Good,Yes,Poor,No,125,High,High,High Functioning
+23,F,African,Yes,No,High,Good,No,Average,Yes,94,High,Moderate,None
+13,F,Other,Yes,Yes,Low,Poor,No,Poor,Yes,127,Moderate,Low,PDD-NOS
+18,M,Asian,Yes,Yes,Low,Good,Yes,Good,Yes,85,Low,High,None
+38,M,Asian,Yes,No,Moderate,Average,Yes,Good,No,105,Moderate,High,High Functioning
+22,F,Caucasian,Yes,No,Low,Average,No,Average,Yes,103,Moderate,Low,Asperger
+33,M,Other,No,Yes,High,Average,Yes,Poor,No,97,High,High,None
+30,F,Asian,Yes,Yes,Low,Good,No,Average,Yes,133,Low,High,Classic Autism
+4,F,African,Yes,No,Moderate,Good,Yes,Good,No,131,Moderate,Moderate,PDD-NOS
+6,M,Asian,No,No,Low,Good,No,Average,No,121,Low,High,High Functioning
+7,F,Other,No,Yes,Moderate,Average,Yes,Poor,Yes,119,High,Low,None
+26,M,African,No,Yes,High,Average,Yes,Poor,Yes,94,Low,High,High Functioning
+17,F,Hispanic,Yes,No,Moderate,Good,No,Poor,Yes,113,Low,Moderate,PDD-NOS
+4,F,Asian,Yes,No,High,Good,Yes,Good,Yes,79,Low,High,None
+11,F,Asian,No,Yes,Low,Good,Yes,Poor,Yes,76,Moderate,Low,Asperger
+12,M,Asian,Yes,No,High,Good,Yes,Poor,Yes,124,Moderate,High,None
+27,F,Asian,Yes,No,Low,Poor,Yes,Average,Yes,85,Moderate,Low,PDD-NOS
+12,F,Other,Yes,No,Low,Good,Yes,Poor,Yes,118,Low,Low,High Functioning
+7,M,Asian,Yes,Yes,High,Good,No,Average,No,86,Low,Low,None
+19,F,Hispanic,Yes,Yes,High,Good,Yes,Good,Yes,133,High,Low,None
+21,F,Hispanic,Yes,Yes,Low,Poor,Yes,Good,No,139,High,Low,Asperger
+15,F,Asian,Yes,Yes,Low,Good,No,Average,Yes,90,High,Low,None
+25,F,Caucasian,No,No,Moderate,Good,No,Poor,Yes,76,High,Low,None
+3,F,Other,Yes,Yes,Low,Good,No,Good,No,123,Low,High,Classic Autism
+22,M,Asian,No,Yes,Low,Poor,No,Poor,No,98,Low,Moderate,Classic Autism
+5,F,Caucasian,Yes,No,Low,Average,No,Poor,No,94,High,Moderate,High Functioning
+14,F,Caucasian,Yes,Yes,Moderate,Poor,Yes,Average,No,123,Low,Moderate,None
+20,M,Other,Yes,Yes,Low,Average,No,Poor,No,129,Moderate,Low,PDD-NOS
+17,M,African,No,Yes,High,Poor,Yes,Average,Yes,75,Moderate,High,Asperger
+4,F,Other,No,No,High,Poor,No,Average,Yes,80,High,Low,Classic Autism
+28,M,Caucasian,No,No,Low,Good,Yes,Poor,No,109,Low,High,Asperger
+38,M,Hispanic,No,Yes,High,Average,Yes,Average,No,70,High,Low,None
+23,M,African,No,No,High,Good,Yes,Good,Yes,112,High,Low,Asperger
+25,M,Asian,No,No,Moderate,Good,Yes,Average,No,92,High,High,PDD-NOS
+37,M,Caucasian,No,Yes,High,Poor,No,Good,Yes,98,Moderate,Moderate,High Functioning
+34,F,African,Yes,Yes,Moderate,Average,No,Average,Yes,130,High,High,Classic Autism
+36,F,Hispanic,No,Yes,Low,Average,Yes,Poor,No,92,Moderate,Low,None
+19,M,Caucasian,No,Yes,Low,Good,Yes,Average,No,139,Low,Moderate,None
+30,M,African,Yes,Yes,Low,Poor,No,Average,No,111,Moderate,High,Classic Autism
+35,F,Hispanic,No,Yes,Moderate,Poor,No,Poor,No,117,Moderate,Low,None
+20,F,Caucasian,Yes,No,Low,Poor,Yes,Poor,Yes,84,Low,Moderate,Classic Autism
+30,F,African,Yes,Yes,High,Good,Yes,Good,No,114,Low,Moderate,None
+30,M,Other,No,Yes,Low,Average,No,Poor,No,110,Low,Low,High Functioning
+36,F,African,No,No,High,Good,Yes,Good,No,113,High,Low,PDD-NOS
+4,M,Other,Yes,No,Low,Average,Yes,Average,No,81,Moderate,Low,Classic Autism

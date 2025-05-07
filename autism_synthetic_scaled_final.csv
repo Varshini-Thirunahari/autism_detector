@@ -1,0 +1,611 @@
+age,gender,ethnicity,eye_contact,repetitive_behavior,social_interaction,communication_skills,speech_delay,motor_skills,family_history,IQ,sensory_sensitivity,anxiety,ASD_Type
+9,M,African,9,9,2,9,9,9,9,124,2,2,None
+16,M,Other,9,2,2,5,2,2,9,124,5,5,None
+23,M,Asian,2,9,5,5,2,2,2,138,2,5,None
+20,F,Other,9,9,2,9,9,5,9,99,2,5,None
+25,M,African,2,9,9,5,9,9,9,138,9,2,None
+26,F,Other,9,2,2,2,9,5,2,104,2,2,High Functioning
+38,F,Native Indian,2,2,9,5,9,5,9,101,9,9,Asperger
+39,F,Other,2,2,2,2,2,2,9,84,2,9,None
+29,M,Hispanic,2,2,9,5,9,9,9,138,5,9,None
+20,F,Caucasian,2,9,9,9,2,9,9,134,2,9,None
+34,M,Caucasian,2,9,9,9,9,9,2,132,2,2,High Functioning
+21,M,Asian,9,9,2,9,2,2,9,86,9,5,High Functioning
+12,F,Other,2,9,9,9,9,9,2,121,9,9,None
+35,F,Asian,9,9,2,5,9,9,9,98,2,2,PDD-NOS
+5,M,Asian,9,2,2,9,9,5,2,97,9,2,PDD-NOS
+38,F,Caucasian,2,2,2,2,9,9,2,115,5,5,Asperger
+5,M,Asian,2,2,2,2,9,2,2,87,5,2,None
+17,M,Hispanic,9,9,9,9,9,2,9,91,5,5,None
+32,M,Hispanic,9,9,5,2,2,5,2,106,5,9,High Functioning
+37,F,Caucasian,9,2,2,2,9,9,2,77,2,9,Asperger
+35,M,Asian,9,9,2,9,9,9,9,121,2,9,None
+40,M,Other,9,2,9,9,2,5,9,110,2,5,None
+27,M,African,2,2,2,2,2,9,9,79,9,2,Asperger
+10,F,Asian,9,2,5,2,2,9,2,137,2,9,PDD-NOS
+21,M,Caucasian,2,9,2,9,9,5,2,96,9,5,None
+18,F,African,9,9,9,5,2,2,9,112,2,9,High Functioning
+12,F,Other,2,9,2,2,9,9,9,117,9,9,Classic Autism
+10,M,African,2,9,5,2,9,9,9,115,9,5,PDD-NOS
+11,M,Caucasian,9,2,2,2,2,5,9,104,2,9,None
+4,F,Caucasian,9,2,5,5,9,2,9,94,5,5,None
+6,F,African,2,2,2,2,2,2,2,74,2,9,Asperger
+22,F,Other,9,2,9,2,2,2,2,70,9,9,Classic Autism
+14,F,Hispanic,9,2,9,5,9,9,2,134,5,9,Asperger
+27,F,Other,9,9,5,9,2,9,9,108,5,9,PDD-NOS
+21,F,Caucasian,2,2,5,5,2,9,9,135,5,9,None
+7,F,Other,2,9,2,9,2,2,9,88,2,2,None
+32,M,Hispanic,2,9,9,9,2,5,2,101,2,9,Classic Autism
+8,F,Caucasian,9,2,2,9,9,2,2,87,5,9,Asperger
+37,F,Hispanic,2,2,2,9,2,5,2,101,9,5,PDD-NOS
+35,F,Caucasian,2,2,2,9,2,2,2,112,5,9,None
+11,M,Hispanic,9,9,2,5,2,5,2,123,2,2,PDD-NOS
+26,M,Other,2,2,2,5,2,5,2,138,9,9,Asperger
+40,M,Hispanic,9,2,5,5,9,5,2,121,9,2,PDD-NOS
+10,M,Hispanic,9,9,9,5,9,5,9,76,5,5,None
+31,F,African,2,2,5,5,9,5,9,139,2,5,None
+6,M,Asian,9,9,2,9,9,2,9,130,9,2,Classic Autism
+15,F,African,2,9,9,9,9,2,2,83,9,2,High Functioning
+38,F,Hispanic,9,9,9,9,9,2,2,85,9,2,None
+24,F,African,9,2,2,5,2,2,2,116,9,5,PDD-NOS
+29,M,Other,2,2,5,5,2,5,9,81,5,5,None
+31,F,African,9,2,5,2,2,2,2,103,5,5,High Functioning
+19,M,Other,9,9,2,9,2,5,9,130,9,9,Asperger
+3,M,African,9,2,9,2,2,9,2,130,9,9,None
+37,F,African,2,2,5,5,9,2,9,110,2,9,Asperger
+13,M,Caucasian,2,2,9,9,2,2,9,107,2,5,None
+2,M,African,9,9,9,5,9,9,2,83,2,9,None
+32,F,African,9,9,5,5,9,2,2,132,2,9,Classic Autism
+5,M,Caucasian,2,9,2,2,2,9,9,136,5,5,High Functioning
+21,F,African,9,9,2,9,9,5,9,90,2,2,Classic Autism
+12,M,Hispanic,2,2,5,2,9,5,2,128,2,9,None
+18,M,Hispanic,9,9,9,2,2,2,9,77,2,5,Classic Autism
+38,F,Hispanic,9,2,9,5,2,5,2,126,2,9,None
+29,F,Other,2,9,2,2,9,9,2,75,2,5,Classic Autism
+30,F,Caucasian,2,2,2,5,2,5,2,111,9,2,High Functioning
+23,F,Hispanic,2,2,9,2,2,2,2,102,5,2,High Functioning
+27,M,Other,2,2,2,2,2,9,2,126,2,2,None
+10,F,Hispanic,2,9,2,9,9,9,9,109,9,2,Classic Autism
+7,M,Asian,2,9,9,2,2,9,2,135,9,5,Asperger
+32,F,Caucasian,2,9,5,2,9,2,2,123,5,9,Classic Autism
+2,F,African,2,9,5,9,2,5,2,140,9,5,Asperger
+22,M,Caucasian,2,9,5,2,2,9,2,118,5,9,PDD-NOS
+11,F,Asian,9,2,2,5,9,9,2,71,9,2,Asperger
+11,M,Hispanic,2,2,9,9,2,9,9,112,9,9,None
+22,F,Other,9,9,2,9,2,2,9,125,2,9,PDD-NOS
+8,F,Caucasian,2,9,2,5,9,5,2,117,5,2,None
+28,M,Caucasian,9,9,9,5,9,5,9,99,5,9,None
+18,M,Hispanic,2,9,2,5,2,9,2,124,9,5,Asperger
+21,M,Hispanic,2,9,2,5,2,9,2,107,2,9,None
+2,M,Other,2,2,2,9,2,2,9,102,9,9,PDD-NOS
+10,M,Asian,2,2,2,9,2,9,9,81,5,5,PDD-NOS
+13,M,Caucasian,2,2,2,5,2,5,2,84,5,2,None
+16,F,Other,2,9,5,2,2,9,9,128,5,9,PDD-NOS
+18,F,African,9,9,5,2,2,9,9,78,9,5,High Functioning
+21,F,Asian,9,9,2,5,2,2,9,100,9,2,None
+25,F,Other,9,2,9,2,2,9,2,105,2,9,None
+30,F,Caucasian,2,9,9,5,2,2,2,105,2,2,High Functioning
+31,M,Caucasian,9,9,5,2,9,9,9,78,9,2,Classic Autism
+16,F,Caucasian,9,2,2,2,2,2,9,73,2,2,None
+17,F,Asian,9,2,2,2,2,9,9,78,5,5,PDD-NOS
+34,M,Hispanic,9,9,9,9,2,5,9,77,5,5,None
+29,M,Hispanic,2,9,2,5,9,2,9,105,9,9,Classic Autism
+22,F,Other,2,2,9,9,2,2,9,140,9,2,Asperger
+16,F,African,2,2,5,9,9,5,2,110,9,5,None
+11,F,Asian,9,9,2,5,9,9,2,86,9,2,Classic Autism
+37,F,Asian,2,2,9,5,9,5,2,115,2,9,Asperger
+11,F,Caucasian,9,2,9,5,9,5,9,124,9,9,Classic Autism
+37,M,Other,2,9,2,5,2,5,2,70,2,2,Classic Autism
+27,M,Caucasian,9,9,9,9,9,5,2,128,5,2,None
+25,F,African,9,9,2,2,9,9,9,104,5,9,Asperger
+40,F,Hispanic,2,9,9,2,2,5,9,106,9,9,Classic Autism
+35,F,Asian,9,2,9,2,9,2,2,97,2,5,None
+9,M,Hispanic,2,9,2,5,9,9,2,79,5,9,None
+3,F,Asian,2,2,9,5,2,5,9,121,2,5,None
+31,F,Asian,2,9,2,5,2,9,9,120,5,9,None
+23,M,Asian,9,9,5,5,9,2,9,88,5,2,None
+11,M,Caucasian,2,2,9,9,2,9,2,110,2,5,None
+30,F,African,9,2,9,2,2,5,2,74,2,5,PDD-NOS
+6,M,Other,2,2,9,9,9,5,9,111,9,5,Asperger
+5,F,Asian,2,9,9,9,9,2,9,126,5,9,Asperger
+12,F,African,2,2,5,5,9,9,2,78,5,2,Classic Autism
+26,F,African,9,2,2,9,9,5,2,120,2,9,PDD-NOS
+7,F,Other,2,2,2,9,9,9,2,135,5,2,None
+13,M,African,2,9,2,2,9,2,2,82,9,9,PDD-NOS
+35,M,African,9,2,2,2,9,9,9,126,2,5,None
+17,F,Other,2,2,2,9,9,5,2,94,5,9,High Functioning
+30,F,African,2,2,2,2,9,5,9,131,5,9,High Functioning
+35,M,African,9,9,5,5,9,5,9,98,5,5,High Functioning
+28,M,Hispanic,2,9,5,2,2,2,9,110,2,9,Classic Autism
+11,M,Asian,2,2,9,2,2,5,9,80,2,5,None
+11,F,Asian,2,9,5,2,9,2,2,128,2,2,PDD-NOS
+33,M,Other,9,9,5,5,9,9,2,100,9,5,None
+7,F,Asian,9,2,5,2,2,5,2,72,5,2,None
+8,F,Caucasian,9,2,9,5,9,9,2,131,9,2,PDD-NOS
+6,F,Asian,2,9,2,2,9,5,2,135,5,9,Classic Autism
+4,M,African,2,9,9,5,2,2,2,125,5,9,Asperger
+26,F,Caucasian,2,2,5,9,2,2,2,80,5,9,High Functioning
+13,F,African,9,9,5,9,2,5,2,124,2,9,Asperger
+30,M,African,2,2,9,2,9,9,2,116,9,9,Classic Autism
+3,M,Other,2,9,2,2,9,9,2,116,5,9,Classic Autism
+11,F,African,2,2,2,9,9,9,2,120,5,9,None
+9,M,Caucasian,2,2,9,2,2,5,2,97,9,5,Classic Autism
+33,M,Asian,9,9,5,2,2,2,2,114,9,2,Asperger
+20,F,Caucasian,9,2,9,2,9,2,9,100,5,2,None
+38,F,Hispanic,9,9,2,5,2,9,2,137,5,5,PDD-NOS
+6,M,African,9,2,5,9,2,2,9,86,5,9,High Functioning
+5,M,Other,9,2,2,2,2,9,9,114,9,5,PDD-NOS
+18,M,Other,2,9,9,5,9,9,9,89,2,9,Classic Autism
+40,F,Other,9,9,2,2,2,9,9,123,9,9,None
+36,F,African,2,9,9,5,2,5,9,77,2,5,Asperger
+31,M,African,9,2,9,5,2,5,9,117,9,9,None
+17,F,Asian,2,2,2,2,9,2,2,119,9,5,None
+12,F,Other,2,9,2,5,2,5,2,133,2,2,High Functioning
+34,F,Caucasian,9,2,2,2,2,5,2,106,9,2,PDD-NOS
+29,M,African,2,2,5,2,2,2,9,116,9,5,None
+34,F,Other,2,9,2,2,2,5,2,116,2,2,Classic Autism
+27,M,Asian,9,9,9,5,2,9,2,89,9,9,None
+22,M,Hispanic,2,2,9,9,2,9,2,130,2,5,None
+9,F,Other,2,9,9,5,2,9,9,76,9,5,None
+26,M,Caucasian,9,9,2,2,2,5,2,89,5,9,None
+34,F,Asian,9,9,9,5,2,9,2,110,2,5,High Functioning
+23,F,African,2,9,2,5,2,2,2,106,9,2,Classic Autism
+33,F,Hispanic,2,2,5,2,2,5,2,88,5,2,None
+7,F,Hispanic,2,2,2,2,2,9,2,87,2,9,PDD-NOS
+17,M,Asian,9,9,2,2,2,5,2,82,9,2,None
+37,M,Hispanic,2,2,9,2,2,5,2,77,2,9,Classic Autism
+36,M,Caucasian,2,9,2,5,2,2,2,74,2,5,Classic Autism
+8,F,African,2,2,2,9,2,5,9,84,5,2,PDD-NOS
+18,M,Asian,2,2,9,9,9,2,2,124,9,5,None
+8,M,Caucasian,2,2,2,2,2,5,9,127,5,5,None
+38,M,African,2,9,2,9,9,5,2,90,5,9,Asperger
+21,M,African,2,9,2,2,2,2,2,117,5,9,Asperger
+32,M,Caucasian,9,2,9,9,2,2,9,77,9,9,None
+14,M,Caucasian,2,2,2,9,9,9,2,81,9,5,PDD-NOS
+31,M,Other,2,2,9,2,2,9,2,72,5,5,PDD-NOS
+15,M,Asian,2,2,9,2,9,2,2,74,5,5,None
+10,F,African,2,2,5,5,9,9,9,114,2,2,High Functioning
+27,M,Caucasian,9,9,5,5,2,9,2,99,2,5,None
+19,M,Asian,9,2,9,2,9,2,9,82,9,2,Asperger
+5,M,Asian,2,2,2,9,9,2,9,134,5,2,PDD-NOS
+38,F,Other,2,9,5,2,9,5,2,105,2,9,PDD-NOS
+13,F,Other,2,9,5,9,2,9,2,123,5,2,None
+13,F,Caucasian,9,2,9,2,2,2,2,123,9,9,None
+17,F,Caucasian,2,9,5,5,9,9,9,76,5,5,Classic Autism
+40,M,Asian,9,9,5,2,2,5,9,97,2,9,None
+32,M,Other,9,2,2,9,2,5,2,129,9,9,None
+18,F,Other,2,2,2,9,2,5,9,117,5,5,None
+16,M,Asian,2,2,5,2,9,5,9,118,9,2,Asperger
+23,F,Hispanic,2,2,2,9,2,2,9,139,5,2,High Functioning
+36,M,Other,9,9,9,2,9,5,9,99,2,9,None
+15,F,African,9,2,9,5,9,2,2,71,2,9,PDD-NOS
+36,F,Asian,2,9,2,2,9,2,9,137,5,5,Classic Autism
+27,M,African,2,2,9,2,9,5,9,74,2,5,None
+37,F,Asian,9,9,2,5,2,9,2,82,9,2,None
+38,F,African,9,9,9,5,9,2,2,72,2,9,None
+27,M,African,9,9,9,5,2,5,9,80,9,9,High Functioning
+5,M,Hispanic,9,9,5,9,2,5,9,104,5,5,None
+37,F,Hispanic,9,2,2,9,2,2,9,80,5,2,None
+11,F,African,2,9,2,2,2,5,2,104,2,2,None
+29,F,Other,2,9,2,2,2,9,9,111,5,2,None
+26,M,Other,9,9,9,5,9,2,2,108,5,5,None
+12,F,African,2,2,5,2,2,5,9,133,9,9,None
+8,M,African,9,2,5,9,2,5,2,112,5,9,High Functioning
+10,F,African,9,2,5,2,2,5,2,132,9,2,None
+19,F,African,9,9,9,9,9,9,9,129,9,2,None
+30,F,Asian,2,2,2,9,2,2,2,89,9,5,PDD-NOS
+6,F,Other,2,2,9,9,2,9,9,116,9,9,Classic Autism
+7,M,Caucasian,2,9,9,9,9,9,2,112,5,2,None
+18,M,Other,9,2,5,5,2,9,9,114,2,5,None
+28,M,Asian,9,2,5,5,2,2,2,114,5,2,Asperger
+30,F,Asian,2,9,9,2,9,5,9,91,9,2,Classic Autism
+37,M,African,2,2,2,5,9,2,2,120,2,9,Classic Autism
+14,F,Other,2,2,2,9,9,2,2,78,9,2,PDD-NOS
+36,M,African,2,9,5,2,2,9,2,137,9,5,Classic Autism
+27,M,African,2,2,9,2,2,9,9,87,5,2,None
+9,M,African,9,2,5,9,9,9,2,124,2,5,Classic Autism
+13,M,Hispanic,2,9,2,5,2,9,9,115,2,5,None
+26,F,Hispanic,2,2,9,5,2,2,9,73,2,5,None
+16,F,Caucasian,2,2,9,9,9,9,9,104,9,5,Asperger
+4,F,Other,9,2,2,9,9,5,9,127,5,5,High Functioning
+7,F,Asian,9,9,9,9,2,9,2,91,9,2,None
+15,M,Asian,2,2,9,9,9,5,2,107,9,5,High Functioning
+34,M,Caucasian,2,9,5,9,9,9,9,101,2,9,None
+17,F,Hispanic,9,2,9,5,2,5,9,81,5,9,PDD-NOS
+25,F,Hispanic,2,9,9,2,2,9,2,78,9,5,None
+29,M,Hispanic,2,2,5,5,9,9,2,113,9,2,None
+31,M,Asian,9,2,5,2,2,2,9,108,2,5,None
+25,F,Asian,2,9,2,5,2,9,9,124,9,2,PDD-NOS
+2,M,Hispanic,9,9,9,2,2,2,9,113,2,5,Classic Autism
+32,M,Caucasian,2,9,9,2,9,5,2,108,2,5,Asperger
+10,M,Asian,9,9,5,5,9,9,9,122,9,9,Asperger
+15,M,Asian,9,9,9,9,2,5,2,110,2,2,None
+19,M,Caucasian,2,9,9,5,9,9,9,120,5,9,None
+17,F,Hispanic,9,9,5,9,9,9,9,116,5,2,None
+38,F,African,9,2,2,2,9,2,2,97,2,2,High Functioning
+27,F,Other,2,2,9,5,9,9,9,105,2,5,None
+15,M,Other,2,2,9,9,9,5,2,100,2,2,None
+29,M,Hispanic,9,2,9,9,9,2,9,87,9,2,None
+12,F,African,2,9,5,2,2,9,9,73,5,5,None
+6,F,Other,9,2,5,9,2,2,2,91,5,2,None
+8,M,Caucasian,9,9,2,2,9,5,2,119,2,2,High Functioning
+4,F,Caucasian,2,9,5,9,2,5,9,117,2,9,Classic Autism
+5,M,Caucasian,9,2,2,5,2,5,2,81,9,5,None
+14,F,Other,2,9,5,5,2,2,9,89,2,5,None
+36,F,Asian,2,9,9,5,2,2,9,137,2,5,Asperger
+5,M,African,9,9,2,9,2,9,2,128,9,2,Classic Autism
+34,M,Hispanic,9,9,5,9,9,2,2,103,5,5,PDD-NOS
+22,F,Hispanic,2,9,2,2,9,9,9,89,2,2,Classic Autism
+22,F,Asian,2,9,5,5,2,5,9,81,2,9,None
+40,M,Caucasian,2,9,2,9,9,5,2,135,2,9,None
+13,M,Hispanic,2,9,2,5,9,2,9,71,2,2,None
+27,F,Asian,2,9,2,2,9,9,2,86,2,5,Classic Autism
+31,M,Caucasian,2,2,5,2,2,9,2,92,5,2,High Functioning
+19,F,Hispanic,9,9,9,9,9,9,2,133,5,9,None
+32,M,Asian,2,2,2,5,9,9,9,139,2,5,PDD-NOS
+24,F,Other,2,2,9,9,2,5,2,93,2,5,Classic Autism
+3,F,Asian,2,2,9,2,9,2,9,100,5,9,PDD-NOS
+5,M,Other,2,2,2,2,9,9,2,115,9,2,PDD-NOS
+24,M,Other,9,2,9,5,9,5,9,81,2,2,Classic Autism
+3,F,Asian,2,9,2,5,9,5,9,72,2,9,PDD-NOS
+11,M,Other,2,9,5,9,2,9,9,113,5,5,None
+12,F,Hispanic,2,9,9,9,2,2,9,118,5,9,Classic Autism
+10,M,Asian,2,9,2,9,2,9,9,83,5,2,None
+6,M,African,2,9,9,2,2,5,9,103,2,2,Classic Autism
+24,F,Asian,9,9,5,5,2,2,2,133,5,5,Asperger
+8,F,Other,9,9,5,2,9,5,9,110,5,2,None
+12,F,Caucasian,9,9,5,9,2,9,9,125,9,2,Classic Autism
+29,M,Asian,9,2,2,2,2,9,2,106,5,2,None
+27,F,Caucasian,9,2,2,5,9,5,2,95,2,2,None
+20,M,Hispanic,9,2,5,5,2,9,2,81,9,9,None
+25,F,African,9,2,2,5,2,5,2,98,5,9,None
+8,M,African,2,9,9,2,2,9,2,138,9,5,Classic Autism
+17,F,African,9,2,9,2,9,2,2,92,2,2,PDD-NOS
+10,M,Hispanic,9,2,2,9,9,9,2,110,9,2,None
+37,F,Other,2,2,9,5,9,9,2,84,5,2,None
+39,M,Asian,9,2,9,5,2,5,2,132,9,9,Asperger
+13,F,Hispanic,9,2,2,5,2,9,9,76,9,5,High Functioning
+25,M,African,2,2,5,5,9,2,9,108,9,5,PDD-NOS
+22,F,Hispanic,9,9,5,2,2,9,2,136,5,2,Asperger
+12,M,African,2,9,9,9,9,2,9,95,2,2,None
+5,F,Caucasian,2,2,5,9,2,9,9,73,2,5,Asperger
+30,M,Hispanic,2,2,2,5,9,5,9,119,2,2,High Functioning
+15,M,Caucasian,9,2,9,5,9,9,9,130,2,9,None
+2,M,African,2,2,5,5,2,5,2,97,5,5,Classic Autism
+27,M,Asian,2,2,5,9,9,5,9,113,5,9,None
+19,F,African,9,9,9,2,9,9,2,110,9,2,PDD-NOS
+33,F,African,2,2,5,9,9,9,9,113,9,9,None
+36,F,African,2,9,9,9,9,5,9,130,2,9,None
+37,M,African,9,9,5,2,2,5,2,117,5,9,None
+9,F,Asian,9,2,2,9,9,9,2,137,5,5,None
+11,M,Caucasian,2,2,9,5,9,5,9,80,5,5,Classic Autism
+13,F,Asian,9,2,5,2,9,9,9,132,2,2,Classic Autism
+29,F,Hispanic,2,2,2,2,9,9,2,71,5,9,None
+2,M,Caucasian,2,2,2,2,2,9,2,91,2,2,None
+20,F,Other,2,2,9,2,2,5,2,94,2,5,None
+16,M,Caucasian,9,9,2,5,9,5,2,138,9,2,Classic Autism
+5,M,Asian,9,9,5,5,2,2,2,130,9,2,None
+2,F,Hispanic,9,2,9,9,9,5,9,135,9,9,None
+9,F,Asian,9,2,2,9,9,5,9,115,9,5,None
+4,F,Caucasian,2,2,2,2,9,9,9,84,9,9,Asperger
+7,M,Asian,2,9,5,5,2,5,9,82,2,2,High Functioning
+25,F,Hispanic,9,9,2,2,9,9,9,112,5,5,High Functioning
+19,M,African,2,9,2,5,2,5,2,119,9,5,PDD-NOS
+12,M,Caucasian,9,9,2,5,2,9,2,93,9,5,PDD-NOS
+3,M,Hispanic,2,9,5,5,9,2,2,110,2,9,High Functioning
+35,M,African,9,2,9,9,9,5,2,119,2,9,None
+5,M,Caucasian,2,2,2,2,2,5,9,112,5,2,Asperger
+37,F,Hispanic,9,9,5,5,2,2,2,127,5,2,High Functioning
+3,M,Hispanic,2,9,9,9,9,2,2,135,9,2,Classic Autism
+31,F,African,9,9,5,5,2,9,2,127,2,2,PDD-NOS
+16,M,African,2,2,9,9,2,9,9,75,2,5,None
+28,M,African,9,9,2,5,9,5,9,113,2,5,None
+39,M,Hispanic,2,9,5,2,9,9,2,131,9,2,Asperger
+13,M,Asian,2,2,9,5,2,9,9,105,5,5,High Functioning
+30,M,Caucasian,2,2,9,9,2,9,9,95,2,9,PDD-NOS
+24,M,Caucasian,2,9,5,9,2,9,2,138,5,5,PDD-NOS
+35,M,Asian,2,9,2,9,9,2,2,90,5,9,None
+5,F,Caucasian,9,2,5,2,9,9,2,100,9,9,None
+5,F,Hispanic,2,2,9,2,9,9,2,95,9,5,PDD-NOS
+25,M,Caucasian,2,2,2,9,9,2,9,135,2,5,None
+19,F,Caucasian,9,2,2,5,2,9,9,75,2,5,Classic Autism
+21,F,Other,2,9,9,5,9,2,9,134,2,5,Asperger
+27,M,African,9,9,9,5,2,5,2,97,9,9,Asperger
+37,M,Asian,2,2,2,9,9,2,2,118,2,5,None
+20,M,Other,2,2,5,2,2,9,9,111,9,2,High Functioning
+12,M,Asian,9,9,9,5,9,2,2,79,9,9,None
+31,F,Asian,9,9,2,2,2,9,9,99,5,5,None
+27,F,African,9,2,9,2,9,9,9,75,9,2,None
+34,M,African,2,9,5,5,2,5,9,130,2,9,None
+27,F,Caucasian,2,2,2,9,9,2,9,70,9,9,None
+37,M,African,9,2,2,5,9,2,9,98,9,5,None
+13,M,Other,2,9,5,9,9,5,9,95,9,9,Asperger
+23,F,Caucasian,9,9,5,9,9,2,2,132,5,5,Classic Autism
+21,M,Other,2,2,5,2,9,5,9,98,9,9,Classic Autism
+19,F,Caucasian,2,2,5,5,2,5,2,140,2,2,Classic Autism
+7,F,Caucasian,9,2,9,9,9,9,9,72,9,9,None
+3,F,Other,9,9,9,5,2,9,9,116,5,2,High Functioning
+39,F,Caucasian,2,9,5,5,9,9,9,91,9,2,Asperger
+13,M,Hispanic,2,9,2,5,9,2,2,117,2,2,Classic Autism
+35,F,Hispanic,2,2,2,2,2,2,2,103,9,9,Classic Autism
+26,F,African,9,2,5,2,2,5,2,132,5,9,None
+10,F,Caucasian,9,9,9,9,2,2,9,93,2,5,None
+40,M,Caucasian,2,2,9,2,2,9,2,131,2,9,None
+28,M,Caucasian,9,9,9,9,9,2,9,88,2,2,None
+18,M,Other,2,9,9,9,2,2,9,127,9,5,High Functioning
+12,M,Hispanic,9,9,9,9,2,2,2,128,9,9,None
+6,M,Hispanic,2,9,2,2,9,9,2,89,9,2,Classic Autism
+40,M,Other,9,9,5,9,9,9,9,125,9,5,None
+4,F,Caucasian,2,2,5,9,9,5,9,102,5,2,High Functioning
+7,F,Other,2,2,2,2,9,9,9,136,2,5,Classic Autism
+22,F,African,9,9,5,9,2,5,2,116,9,5,High Functioning
+27,M,Hispanic,2,9,5,9,2,5,2,114,9,5,PDD-NOS
+9,M,Hispanic,9,9,2,9,2,5,9,90,5,9,None
+7,M,Hispanic,2,9,2,5,9,5,9,74,9,5,High Functioning
+27,F,Other,9,9,9,5,2,2,9,136,5,2,None
+40,M,Other,9,9,5,2,9,2,9,105,5,5,Classic Autism
+27,M,Other,9,9,2,9,2,9,2,114,5,2,Classic Autism
+14,F,Hispanic,9,2,2,5,9,9,9,134,5,5,High Functioning
+34,F,Other,2,2,5,9,2,2,2,128,9,5,High Functioning
+3,F,Asian,2,9,5,9,9,9,9,110,5,5,Asperger
+2,F,Caucasian,2,9,5,9,2,2,9,130,5,5,None
+38,F,Caucasian,9,2,9,2,9,9,9,103,2,2,None
+17,F,Caucasian,9,9,2,9,2,9,9,139,2,5,None
+22,F,Other,2,2,2,9,2,5,9,86,2,9,PDD-NOS
+32,M,Other,2,2,9,2,2,2,2,110,9,2,None
+15,F,Other,9,2,5,9,2,2,2,100,5,5,High Functioning
+23,F,Caucasian,2,2,2,5,2,5,2,105,5,2,Classic Autism
+38,M,Asian,2,9,9,5,2,2,9,89,5,2,None
+33,M,Other,2,2,5,5,9,5,9,90,2,2,PDD-NOS
+32,M,Hispanic,2,2,5,5,2,5,9,122,2,5,High Functioning
+40,M,Other,9,2,5,5,2,9,2,80,5,9,None
+11,M,African,2,2,2,2,9,5,9,110,5,9,None
+19,F,African,2,2,9,9,2,5,9,93,2,2,PDD-NOS
+18,M,Caucasian,9,2,2,2,9,5,9,73,5,9,PDD-NOS
+7,M,African,9,9,9,5,2,2,9,106,5,9,None
+35,M,Asian,9,2,5,5,2,9,2,140,5,2,High Functioning
+36,M,Other,2,2,9,9,2,5,2,139,2,2,Asperger
+25,F,African,9,2,2,2,9,5,2,130,9,2,Classic Autism
+33,F,African,9,2,5,9,9,2,2,94,5,9,Asperger
+17,M,Hispanic,2,9,5,2,2,9,9,136,9,9,Classic Autism
+20,F,Hispanic,9,9,2,2,2,2,2,127,5,9,Classic Autism
+14,F,Asian,9,9,9,2,9,2,2,104,2,9,Asperger
+2,M,Asian,9,9,5,2,2,5,2,133,5,5,Classic Autism
+4,F,Asian,9,9,5,5,9,9,2,93,2,5,PDD-NOS
+2,M,Caucasian,2,2,2,9,9,2,2,82,9,9,High Functioning
+32,F,African,2,9,9,9,9,9,9,102,5,9,None
+25,M,Caucasian,9,9,9,5,2,2,9,105,9,2,None
+17,M,Asian,2,9,5,2,9,2,2,81,9,9,Classic Autism
+5,M,African,9,9,2,5,9,5,2,126,9,2,None
+26,F,Caucasian,2,9,5,9,2,9,2,139,9,5,None
+13,F,African,2,2,9,9,9,2,9,127,5,5,Asperger
+31,M,Other,2,9,2,9,2,9,9,111,9,2,Classic Autism
+36,F,Caucasian,2,9,9,5,2,5,2,84,2,9,Classic Autism
+4,M,Caucasian,9,9,2,5,9,2,9,119,9,5,Asperger
+39,F,Asian,2,9,9,9,9,2,9,132,2,5,PDD-NOS
+5,F,Other,2,2,9,2,2,9,9,79,5,2,High Functioning
+35,M,Asian,9,2,2,2,9,9,9,123,9,2,PDD-NOS
+38,F,Hispanic,2,9,2,2,2,9,2,90,9,9,Asperger
+24,F,Other,2,2,5,9,2,9,2,100,9,9,None
+37,F,African,2,2,5,2,9,5,9,136,2,5,None
+16,M,African,9,2,9,9,9,2,9,128,5,2,None
+10,F,African,9,9,5,5,9,9,2,97,9,2,PDD-NOS
+32,M,Hispanic,9,2,2,9,2,2,9,112,5,5,Asperger
+9,M,Other,9,2,2,5,9,5,9,111,9,9,None
+5,F,Hispanic,9,9,5,5,2,2,9,113,2,5,Classic Autism
+5,F,African,9,2,9,5,9,2,2,95,5,5,Classic Autism
+14,M,Caucasian,9,2,5,5,9,2,2,124,5,5,None
+24,M,African,9,2,9,5,9,5,9,99,2,9,None
+7,M,Asian,9,9,5,2,2,9,9,109,5,5,None
+15,M,Caucasian,2,2,9,9,9,9,9,118,9,9,Asperger
+18,M,Asian,2,9,9,9,2,2,2,71,2,5,Classic Autism
+25,M,Asian,2,2,2,5,9,5,2,138,2,2,None
+31,M,Asian,9,2,5,5,2,9,9,72,5,9,None
+21,M,Other,2,9,9,5,2,2,2,98,2,5,High Functioning
+10,M,Hispanic,9,2,2,9,9,5,2,112,5,9,None
+10,M,Caucasian,2,9,5,2,9,5,9,138,9,2,Classic Autism
+11,M,African,2,2,5,5,2,2,9,83,2,2,None
+19,M,Other,9,9,9,2,2,2,2,87,9,9,Asperger
+25,M,Hispanic,2,2,2,2,9,2,9,122,2,5,High Functioning
+16,M,Caucasian,9,9,5,9,2,9,2,128,2,5,Asperger
+4,F,African,2,9,9,2,2,5,9,101,9,9,None
+4,F,Other,9,9,5,5,2,5,2,129,2,5,None
+5,M,Hispanic,2,9,9,9,9,2,9,120,5,5,Asperger
+13,F,Other,9,2,2,5,2,9,9,85,2,2,PDD-NOS
+25,M,Other,2,9,5,9,2,2,9,112,9,9,High Functioning
+12,M,Caucasian,9,2,5,5,2,5,9,85,2,2,None
+18,M,Hispanic,2,2,9,2,2,2,9,130,5,5,Asperger
+40,M,Caucasian,2,9,2,2,9,2,2,74,2,2,Asperger
+40,F,African,9,9,2,5,9,2,2,92,5,9,Classic Autism
+4,M,African,2,2,5,2,2,9,9,107,5,2,None
+19,F,Other,2,9,9,2,9,2,9,131,9,9,Asperger
+20,F,Other,2,2,9,9,2,2,2,136,9,9,Asperger
+13,M,African,9,9,2,2,2,9,9,96,9,5,Asperger
+23,F,Other,9,9,9,2,2,5,9,109,5,9,Asperger
+2,M,African,2,2,9,9,9,2,9,112,5,9,Asperger
+32,M,Caucasian,2,9,9,5,2,5,2,77,9,5,Classic Autism
+22,M,Caucasian,2,2,2,2,2,2,2,118,9,9,PDD-NOS
+38,F,Caucasian,9,2,9,5,9,5,2,81,5,2,None
+21,M,Other,2,9,2,5,9,2,9,126,9,2,PDD-NOS
+34,M,Caucasian,2,2,9,9,2,5,9,82,9,9,High Functioning
+15,M,Hispanic,2,9,2,5,9,9,9,112,5,2,None
+21,M,Other,2,9,5,2,9,5,2,138,5,5,Asperger
+19,M,Caucasian,2,9,2,9,9,2,2,140,5,5,None
+20,M,Caucasian,9,2,9,5,2,2,9,73,5,9,None
+26,M,Asian,2,2,2,9,2,9,2,109,5,2,PDD-NOS
+36,M,Hispanic,9,9,9,5,9,5,2,129,5,2,High Functioning
+11,F,African,2,9,9,9,2,5,2,132,2,2,Asperger
+24,F,Hispanic,9,2,5,9,9,9,9,121,9,2,None
+6,F,Other,2,2,9,5,9,9,9,140,2,5,None
+23,M,Other,2,2,9,5,9,2,9,132,2,9,Classic Autism
+22,M,Hispanic,9,2,5,2,9,9,2,111,5,9,Classic Autism
+7,M,Caucasian,9,9,9,2,2,9,2,119,9,9,Asperger
+15,F,African,2,2,9,5,9,9,9,135,5,2,High Functioning
+5,F,Other,9,9,9,9,2,2,2,73,2,5,None
+39,F,African,2,2,5,5,9,9,9,130,2,2,Classic Autism
+25,F,Caucasian,2,9,2,2,9,9,9,88,9,5,Asperger
+10,M,Caucasian,2,2,9,9,2,9,9,128,9,5,Classic Autism
+30,F,African,9,9,5,9,9,9,2,100,9,9,None
+36,F,Asian,9,2,9,5,9,9,2,80,2,9,PDD-NOS
+19,F,Other,9,9,2,5,9,9,2,76,5,9,PDD-NOS
+32,F,Other,2,2,5,5,2,5,9,74,9,9,PDD-NOS
+38,F,Asian,2,9,9,2,2,9,9,106,5,2,None
+6,F,African,9,2,5,5,9,9,9,92,9,9,None
+30,F,Caucasian,2,9,5,2,9,5,9,88,9,2,PDD-NOS
+28,F,Caucasian,2,9,2,9,2,2,2,84,2,2,Asperger
+32,F,Hispanic,9,2,9,9,2,5,2,88,9,5,None
+2,F,Hispanic,2,2,9,9,9,2,2,125,9,9,High Functioning
+23,F,African,9,2,9,9,2,5,9,94,9,5,None
+13,F,Other,9,9,2,2,2,2,9,127,5,2,PDD-NOS
+18,M,Asian,9,9,2,9,9,9,9,85,2,9,None
+38,M,Asian,9,2,5,5,9,9,2,105,5,9,High Functioning
+22,F,Caucasian,9,2,2,5,2,5,9,103,5,2,Asperger
+33,M,Other,2,9,9,5,9,2,2,97,9,9,None
+30,F,Asian,9,9,2,9,2,5,9,133,2,9,Classic Autism
+4,F,African,9,2,5,9,9,9,2,131,5,5,PDD-NOS
+6,M,Asian,2,2,2,9,2,5,2,121,2,9,High Functioning
+7,F,Other,2,9,5,5,9,2,9,119,9,2,None
+26,M,African,2,9,9,5,9,2,9,94,2,9,High Functioning
+17,F,Hispanic,9,2,5,9,2,2,9,113,2,5,PDD-NOS
+4,F,Asian,9,2,9,9,9,9,9,79,2,9,None
+11,F,Asian,2,9,2,9,9,2,9,76,5,2,Asperger
+12,M,Asian,9,2,9,9,9,2,9,124,5,9,None
+27,F,Asian,9,2,2,2,9,5,9,85,5,2,PDD-NOS
+12,F,Other,9,2,2,9,9,2,9,118,2,2,High Functioning
+7,M,Asian,9,9,9,9,2,5,2,86,2,2,None
+19,F,Hispanic,9,9,9,9,9,9,9,133,9,2,None
+21,F,Hispanic,9,9,2,2,9,9,2,139,9,2,Asperger
+15,F,Asian,9,9,2,9,2,5,9,90,9,2,None
+25,F,Caucasian,2,2,5,9,2,2,9,76,9,2,None
+3,F,Other,9,9,2,9,2,9,2,123,2,9,Classic Autism
+22,M,Asian,2,9,2,2,2,2,2,98,2,5,Classic Autism
+5,F,Caucasian,9,2,2,5,2,2,2,94,9,5,High Functioning
+14,F,Caucasian,9,9,5,2,9,5,2,123,2,5,None
+20,M,Other,9,9,2,5,2,2,2,129,5,2,PDD-NOS
+17,M,African,2,9,9,2,9,5,9,75,5,9,Asperger
+4,F,Other,2,2,9,2,2,5,9,80,9,2,Classic Autism
+28,M,Caucasian,2,2,2,9,9,2,2,109,2,9,Asperger
+38,M,Hispanic,2,9,9,5,9,5,2,70,9,2,None
+23,M,African,2,2,9,9,9,9,9,112,9,2,Asperger
+25,M,Asian,2,2,5,9,9,5,2,92,9,9,PDD-NOS
+37,M,Caucasian,2,9,9,2,2,9,9,98,5,5,High Functioning
+34,F,African,9,9,5,5,2,5,9,130,9,9,Classic Autism
+36,F,Hispanic,2,9,2,5,9,2,2,92,5,2,None
+19,M,Caucasian,2,9,2,9,9,5,2,139,2,5,None
+30,M,African,9,9,2,2,2,5,2,111,5,9,Classic Autism
+35,F,Hispanic,2,9,5,2,2,2,2,117,5,2,None
+20,F,Caucasian,9,2,2,2,9,2,9,84,2,5,Classic Autism
+30,F,African,9,9,9,9,9,9,2,114,2,5,None
+30,M,Other,2,9,2,5,2,2,2,110,2,2,High Functioning
+36,F,African,2,2,9,9,9,9,2,113,9,2,PDD-NOS
+4,M,Other,9,2,2,5,9,5,2,81,5,2,Classic Autism
+age,gender,ethnicity,eye_contact,repetitive_behavior,social_interaction,communication_skills,speech_delay,motor_skills,family_history,IQ,sensory_sensitivity,anxiety,ASD_Type
+6,M,African,9,9,5,9,9,9,9,120,2,2,High Functioning
+15,F,Asian,2,9,5,5,2,2,2,110,5,5,Classic Autism
+22,M,Caucasian,5,9,2,9,9,5,5,100,9,9,Asperger
+25,F,Other,9,9,5,9,9,5,2,115,5,5,None
+12,M,Hispanic,2,5,2,2,5,2,9,85,9,5,PDD-NOS
+20,F,Native Indian,9,2,5,9,2,9,9,135,2,2,High Functioning
+30,M,African,9,9,9,9,9,2,5,130,9,2,Asperger
+40,F,Other,9,5,2,9,9,5,2,125,2,9,None
+10,M,Caucasian,9,2,5,2,9,9,5,95,2,9,Classic Autism
+18,F,Hispanic,9,9,9,2,9,5,2,140,9,5,High Functioning
+17,M,Other,2,2,9,9,9,9,9,80,9,5,None
+12,F,African,9,9,2,5,2,2,9,105,2,9,PDD-NOS
+22,M,Other,2,2,9,5,2,9,9,110,9,9,High Functioning
+28,F,Asian,9,9,9,9,2,5,9,95,9,2,Asperger
+9,M,Hispanic,5,9,9,9,5,5,5,99,5,9,Classic Autism
+35,F,African,9,9,2,9,9,9,2,112,9,2,High Functioning
+24,M,Caucasian,2,2,9,9,5,9,9,105,5,9,None
+26,F,Native Indian,2,9,5,5,9,5,9,121,9,5,High Functioning
+16,M,Other,9,5,9,2,2,9,5,100,9,9,Asperger
+19,F,Hispanic,9,9,2,9,5,9,9,113,9,9,Classic Autism
+20,M,Other,2,2,5,5,9,9,5,106,5,5,None
+13,F,African,2,5,5,2,9,9,9,120,2,5,Asperger
+30,M,Caucasian,9,5,9,9,9,5,9,118,5,2,High Functioning
+14,M,Asian,9,9,9,2,9,9,5,125,5,2,None
+8,F,Other,9,9,2,5,2,9,9,140,9,9,Classic Autism
+21,M,Hispanic,9,9,5,9,2,9,9,110,2,9,High Functioning
+7,M,Caucasian,2,9,9,2,9,9,9,98,9,9,None
+18,F,African,9,2,9,5,9,9,9,134,9,5,Asperger
+27,M,Native Indian,9,9,5,9,5,9,9,112,5,9,Classic Autism
+10,F,Other,2,2,9,9,5,2,2,100,9,2,PDD-NOS
+22,M,Asian,5,2,9,5,5,2,9,140,9,9,High Functioning
+25,F,Caucasian,9,2,9,9,2,5,5,115,5,2,Asperger
+17,M,Other,2,9,2,5,9,9,9,110,5,9,Classic Autism
+30,F,African,9,2,9,5,9,5,2,125,9,5,High Functioning
+6,F,Hispanic,2,2,9,9,5,9,9,95,2,9,Asperger
+21,M,African,9,5,5,2,5,9,5,125,5,9,Classic Autism
+19,F,Other,5,9,9,9,5,5,9,130,2,2,None
+age,gender,ethnicity,eye_contact,repetitive_behavior,social_interaction,communication_skills,speech_delay,motor_skills,family_history,IQ,sensory_sensitivity,anxiety,ASD_Type
+9,M,African,1,1,2,1,1,1,0,112,1,1,None
+16,M,Other,1,0,1,1,0,1,0,115,0,0,None
+23,M,Asian,0,1,1,1,0,0,1,130,1,1,None
+20,F,Other,1,1,2,1,0,1,1,100,1,1,None
+25,M,African,0,1,1,1,1,1,0,125,1,0,High Functioning
+26,F,Other,1,0,1,1,0,0,1,105,0,0,High Functioning
+38,F,Native Indian,0,1,1,1,0,0,0,110,1,1,Asperger
+39,F,Other,1,0,0,0,1,0,1,95,0,1,None
+29,M,Hispanic,1,1,2,1,1,1,0,120,0,0,None
+20,F,Caucasian,1,1,2,1,1,0,1,135,0,1,None
+34,M,Caucasian,0,1,1,1,1,1,0,120,1,1,High Functioning
+21,M,Asian,0,1,2,0,1,0,1,100,1,1,High Functioning
+12,F,Other,1,1,1,1,0,0,0,95,1,0,None
+35,F,Asian,0,0,1,0,1,1,1,90,0,0,PDD-NOS
+5,M,Asian,1,0,0,0,1,1,1,80,0,1,PDD-NOS
+38,F,Caucasian,0,1,1,1,1,0,0,110,1,1,Asperger
+5,M,Asian,0,1,1,0,1,0,1,70,1,0,None
+17,M,Hispanic,1,1,1,1,0,1,1,85,0,1,None
+32,M,Hispanic,1,0,1,1,1,0,1,100,1,0,High Functioning
+37,F,Caucasian,0,1,0,0,1,1,0,80,0,1,Asperger
+35,M,Asian,0,1,1,1,1,0,0,125,1,1,None
+40,M,Other,1,0,1,0,1,1,1,110,0,1,None
+27,M,African,0,0,1,1,0,1,0,75,1,0,Asperger
+10,F,Asian,1,1,1,1,0,0,1,100,0,1,PDD-NOS
+21,M,Caucasian,0,0,1,0,1,1,0,95,1,0,None
+18,F,African,1,1,0,0,1,0,1,105,0,0,High Functioning
+12,F,Other,1,1,0,1,1,0,1,115,1,1,Classic Autism
+10,M,African,0,1,1,0,1,1,0,120,1,0,PDD-NOS
+11,M,Caucasian,1,0,1,1,0,0,1,110,0,1,None
+4,F,Caucasian,1,0,1,0,1,0,0,95,1,0,None
+6,F,African,0,1,0,1,1,0,1,85,1,1,Asperger
+22,F,Other,1,0,1,1,1,0,0,100,0,1,Classic Autism
+14,F,Hispanic,1,1,1,0,0,1,1,115,1,1,Asperger
+27,F,Other,1,1,0,0,0,0,1,90,0,1,PDD-NOS
+21,F,Caucasian,0,1,1,0,1,0,0,110,1,1,None
+7,F,Other,0,0,1,1,0,1,1,75,1,1,None
+32,M,Hispanic,0,1,1,0,1,1,0,100,0,1,Classic Autism
+8,F,Caucasian,1,0,0,0,1,1,0,105,0,1,Asperger
+37,F,Hispanic,0,1,0,1,1,0,1,95,0,0,PDD-NOS
+35,F,Caucasian,0,1,0,1,1,0,1,110,1,1,None
+11,M,Hispanic,1,1,0,1,0,1,0,120,1,0,PDD-NOS
+26,M,Other,0,1,1,0,1,1,1,115,1,0,Asperger
+40,M,Hispanic,1,0,1,0,0,1,0,110,0,0,PDD-NOS
+10,M,Hispanic,1,1,1,1,0,1,0,95,1,1,None
+31,F,African,0,1,1,1,1,0,0,120,1,0,None
+6,M,Asian,1,1,0,1,1,1,0,125,1,1,Classic Autism
+15,F,African,0,1,0,1,1,1,1,80,1,1,High Functioning
+38,F,Hispanic,1,1,1,0,1,1,1,95,0,1,None
+24,F,African,1,1,0,1,1,1,0,115,0,1,PDD-NOS
+29,M,Other,0,1,1,0,1,1,1,90,1,1,None
+31,F,African,1,1,1,0,0,1,0,110,1,1,High Functioning
+19,M,Other,1,1,0,1,1,0,1,120,1,0,Asperger
+3,M,African,1,0,1,0,1,1,0,115,0,1,None
+37,F,African,0,1,1,1,1,0,1,105,1,0,Asperger
+13,M,Caucasian,0,1,1,0,0,1,1,110,0,1,None
+2,M,African,1,1,0,1,1,0,1,90,1,0,None
+32,F,African,1,1,1,1,1,0,0,120,0,1,Classic Autism
+5,M,Caucasian,0,1,1,0,1,0,1,115,0,1,High Functioning
+21,F,African,1,0,1,1,1,0,0,110,0,0,Classic Autism
+12,M,Hispanic,0,1,1,0,0,1,1,130,1,0,None
+18,M,Hispanic,1,1,0,1,0,0,1,95,1,1,Classic Autism
+38,F,Hispanic,1,0,1,0,0,1,0,105,0,0,None
+29,F,Other,0,1,1,0,1,1,0,80,1,1,Classic Autism
+30,F,Caucasian,0,1,1,0,1,0,1,110,1,0,High Functioning
+23,F,Hispanic,0,1,1,0,1,0,0,85,1,1,High Functioning
+27,M,Other,0,1,1,0,1,1,1,95,0,0,None
+10,F,Hispanic,1,0,1,0,1,0,0,105,1,0,Classic Autism
+7,M,Asian,0,1,1,1,1,1,0,125,1,1,Asperger
+32,F,Caucasian,1,0,0,0,1,0,1,120,1,1,Classic Autism
+2,F,African,1,0,1,0,1,0,1,130,0,1,Asperger
+22,M,Caucasian,0,1,1,0,1,1,0,115,0,1,Classic Autism
