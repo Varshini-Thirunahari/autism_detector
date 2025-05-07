@@ -27,14 +27,13 @@ This is a machine learning-powered web app that predicts the **type of Autism Sp
 
 ## Run Locally
 
-step1: pip install -r requirements.txt
+* step1: pip install -r requirements.txt
 
-step2: autism_model_trained.py
+* step2: autism_model_trained.py
 
-step3: streamlit run autism_app.py
+* step3: streamlit run autism_app.py
 
-AUTHOR:
+## AUTHOR:
 
-Name: Thirunahari Varshini
-
-Mail: varshinithirunahari13@gmail.com 
+* Name: Thirunahari Varshini
+* Email: varshinithirunahari13@gmail.com 
